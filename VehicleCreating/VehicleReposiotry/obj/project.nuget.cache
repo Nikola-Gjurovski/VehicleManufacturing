@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CL6McFEZ5BWgGTrOz3vnQtC2azXqk+ZzOta9gA7jPYuh6BO//g+nfeWL8qJLsdEwBoCDeQFAdweKyNUpjrloIA==",
+  "dgSpecHash": "YdaqE0zNRbJKNlrkn7b+SkioBYQwu0CNsr5zAjoC8yAZIOTm1fM5TpTXO2n8AhiswgGM4kITxVK0/SZhenVHnw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleReposiotry\\VehicleReposiotry.csproj",
+  "projectFilePath": "C:\\Users\\Nikola\\Desktop\\private rep\\VehicleManufacturing\\VehicleCreating\\VehicleReposiotry\\VehicleReposiotry.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Nikola\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Nikola\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "veg5FpNZgSYrtYfUPE056YxSXP+6flnbdlG6d06Wo7NE7PGp7nRl33/bKtL7rwtaIb24XUWaMZHLsYK/RXhLZw==",
+  "dgSpecHash": "prShAZFMLNUTrbM/mQIEv5wvsqi4ODU47q8LrBtmepCyoYwiMqcDYwfo3fae0iRKFzlYBX0VY4/UZgt6+laXnQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\Domain\\Domain.csproj",
+  "projectFilePath": "C:\\Users\\Nikola\\Desktop\\private rep\\VehicleManufacturing\\VehicleCreating\\Domain\\Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Nikola\\.nuget\\packages\\exceldatareader\\3.6.0\\exceldatareader.3.6.0.nupkg.sha512",
     "C:\\Users\\Nikola\\.nuget\\packages\\gembox.document\\35.0.1784\\gembox.document.35.0.1784.nupkg.sha512",

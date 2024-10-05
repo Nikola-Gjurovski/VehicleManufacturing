@@ -1429,11 +1429,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\Domain\\Domain.csproj",
+      "projectUniqueName": "C:\\Users\\Nikola\\Desktop\\private rep\\VehicleManufacturing\\VehicleCreating\\Domain\\Domain.csproj",
       "projectName": "Domain",
-      "projectPath": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\Domain\\Domain.csproj",
+      "projectPath": "C:\\Users\\Nikola\\Desktop\\private rep\\VehicleManufacturing\\VehicleCreating\\Domain\\Domain.csproj",
       "packagesPath": "C:\\Users\\Nikola\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\Domain\\obj\\",
+      "outputPath": "C:\\Users\\Nikola\\Desktop\\private rep\\VehicleManufacturing\\VehicleCreating\\Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Nikola\\AppData\\Roaming\\NuGet\\NuGet.Config",

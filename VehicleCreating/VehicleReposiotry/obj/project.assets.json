@@ -3897,11 +3897,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleReposiotry\\VehicleReposiotry.csproj",
+      "projectUniqueName": "C:\\Users\\Nikola\\Desktop\\private rep\\VehicleManufacturing\\VehicleCreating\\VehicleReposiotry\\VehicleReposiotry.csproj",
       "projectName": "VehicleReposiotry",
-      "projectPath": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleReposiotry\\VehicleReposiotry.csproj",
+      "projectPath": "C:\\Users\\Nikola\\Desktop\\private rep\\VehicleManufacturing\\VehicleCreating\\VehicleReposiotry\\VehicleReposiotry.csproj",
       "packagesPath": "C:\\Users\\Nikola\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleReposiotry\\obj\\",
+      "outputPath": "C:\\Users\\Nikola\\Desktop\\private rep\\VehicleManufacturing\\VehicleCreating\\VehicleReposiotry\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Nikola\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3918,8 +3918,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\Domain\\Domain.csproj": {
-              "projectPath": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\Domain\\Domain.csproj"
+            "C:\\Users\\Nikola\\Desktop\\private rep\\VehicleManufacturing\\VehicleCreating\\Domain\\Domain.csproj": {
+              "projectPath": "C:\\Users\\Nikola\\Desktop\\private rep\\VehicleManufacturing\\VehicleCreating\\Domain\\Domain.csproj"
             }
           }
         }
