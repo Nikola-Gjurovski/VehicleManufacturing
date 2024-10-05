@@ -1,0 +1,71 @@
+﻿@model Domain.DTO.OrderDto
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<h1>Index</h1>
+
+<div class="container">
+   
+    @if (Model.Orders == null)
+    {
+        <p>Empty card</p>
+    }
+    else
+    {
+
+       
+        <div class="row m-4">
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th scope="col">
+                            #
+                        </th>
+                        <th scope="col">Company Name</th>
+                        <th scope="col">Vehicle name</th>
+                        <th scope="col">Vehicle color</th>
+                        <th scope="col">Price</th>
+                        <th scope="col">Is Done</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @if (Model.Orders.Count() == 0)
+                    {
+                        <tr>
+                            <td colspan="5">No active Products</td>
+                        </tr>
+                    }
+                    else
+                    {
+                        @for (int i = 0; i < Model.Orders.Count; i++)
+                        {
+                            var item = Model.Orders.ElementAt(i);
+                            <tr>
+                                <th scope="row">@(i + 1)</th>
+                                <td>@item.ShoppingCart.CompanyName</td>
+                                <td>@item.ShoppingCart.VehicleName</td>
+                                <td>@item.ShoppingCart.VehicleColor</td> 
+                                <td>@item.ShoppingCart.Price $</td>
+                                <td>@(item.IsDone.HasValue && item.IsDone.Value ? "Yes" : "No")</td>
+                                <td>
+                                    |
+                                    <a asp-action="OrdersAdminDetails" asp-route-id="@item.Id" class="btn btn-info">View Order</a>
+                                   
+                                </td>
+                                
+
+                            </tr>
+                       
+
+                        }
+                    }
+                </tbody>
+               
+            </table>
+        </div>
+    }
+
+</div>
+

@@ -1,0 +1,1992 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0048EB93-D4F9-4FB8-A1DB-897D25961098}|VehicleWeb\\VehicleWeb.csproj|c:\\users\\nikola\\desktop\\private rep\\finki\\is\\project\\vehiclecreating - copy\\vehicleweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0048EB93-D4F9-4FB8-A1DB-897D25961098}|VehicleWeb\\VehicleWeb.csproj|solutionrelative:vehicleweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0048EB93-D4F9-4FB8-A1DB-897D25961098}|VehicleWeb\\VehicleWeb.csproj|c:\\users\\nikola\\desktop\\private rep\\finki\\is\\project\\vehiclecreating - copy\\vehicleweb\\vehicleweb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0048EB93-D4F9-4FB8-A1DB-897D25961098}|VehicleWeb\\VehicleWeb.csproj|solutionrelative:vehicleweb\\vehicleweb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0048EB93-D4F9-4FB8-A1DB-897D25961098}|VehicleWeb\\VehicleWeb.csproj|c:\\users\\nikola\\desktop\\private rep\\finki\\is\\project\\vehiclecreating - copy\\vehicleweb\\controllers\\shoppingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0048EB93-D4F9-4FB8-A1DB-897D25961098}|VehicleWeb\\VehicleWeb.csproj|solutionrelative:vehicleweb\\controllers\\shoppingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C374DD14-FCA1-4BA0-8802-E5EC6A1F8771}|VehicleServices\\VehicleServices.csproj|c:\\users\\nikola\\desktop\\private rep\\finki\\is\\project\\vehiclecreating - copy\\vehicleservices\\implementation\\vehicleformularepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C374DD14-FCA1-4BA0-8802-E5EC6A1F8771}|VehicleServices\\VehicleServices.csproj|solutionrelative:vehicleservices\\implementation\\vehicleformularepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0048EB93-D4F9-4FB8-A1DB-897D25961098}|VehicleWeb\\VehicleWeb.csproj|c:\\users\\nikola\\desktop\\private rep\\finki\\is\\project\\vehiclecreating - copy\\vehicleweb\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0048EB93-D4F9-4FB8-A1DB-897D25961098}|VehicleWeb\\VehicleWeb.csproj|solutionrelative:vehicleweb\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0048EB93-D4F9-4FB8-A1DB-897D25961098}|VehicleWeb\\VehicleWeb.csproj|c:\\users\\nikola\\desktop\\private rep\\finki\\is\\project\\vehiclecreating - copy\\vehicleweb\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0048EB93-D4F9-4FB8-A1DB-897D25961098}|VehicleWeb\\VehicleWeb.csproj|solutionrelative:vehicleweb\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0048EB93-D4F9-4FB8-A1DB-897D25961098}|VehicleWeb\\VehicleWeb.csproj|c:\\users\\nikola\\desktop\\private rep\\finki\\is\\project\\vehiclecreating - copy\\vehicleweb\\areas\\identity\\pages\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0048EB93-D4F9-4FB8-A1DB-897D25961098}|VehicleWeb\\VehicleWeb.csproj|solutionrelative:vehicleweb\\areas\\identity\\pages\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0048EB93-D4F9-4FB8-A1DB-897D25961098}|VehicleWeb\\VehicleWeb.csproj|c:\\users\\nikola\\desktop\\private rep\\finki\\is\\project\\vehiclecreating - copy\\vehicleweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0048EB93-D4F9-4FB8-A1DB-897D25961098}|VehicleWeb\\VehicleWeb.csproj|solutionrelative:vehicleweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0048EB93-D4F9-4FB8-A1DB-897D25961098}|VehicleWeb\\VehicleWeb.csproj|c:\\users\\nikola\\desktop\\private rep\\finki\\is\\project\\vehiclecreating - copy\\vehicleweb\\controllers\\etl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0048EB93-D4F9-4FB8-A1DB-897D25961098}|VehicleWeb\\VehicleWeb.csproj|solutionrelative:vehicleweb\\controllers\\etl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0048EB93-D4F9-4FB8-A1DB-897D25961098}|VehicleWeb\\VehicleWeb.csproj|c:\\users\\nikola\\desktop\\private rep\\finki\\is\\project\\vehiclecreating - copy\\vehicleweb\\views\\etl\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0048EB93-D4F9-4FB8-A1DB-897D25961098}|VehicleWeb\\VehicleWeb.csproj|solutionrelative:vehicleweb\\views\\etl\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7FABA88-A0C6-44E4-8E1D-6433AC2F6F48}|VehicleReposiotry\\VehicleReposiotry.csproj|c:\\users\\nikola\\desktop\\private rep\\finki\\is\\project\\vehiclecreating - copy\\vehiclereposiotry\\implementation\\etlrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7FABA88-A0C6-44E4-8E1D-6433AC2F6F48}|VehicleReposiotry\\VehicleReposiotry.csproj|solutionrelative:vehiclereposiotry\\implementation\\etlrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0048EB93-D4F9-4FB8-A1DB-897D25961098}|VehicleWeb\\VehicleWeb.csproj|c:\\users\\nikola\\desktop\\private rep\\finki\\is\\project\\vehiclecreating - copy\\vehicleweb\\controllers\\vehicleformulascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0048EB93-D4F9-4FB8-A1DB-897D25961098}|VehicleWeb\\VehicleWeb.csproj|solutionrelative:vehicleweb\\controllers\\vehicleformulascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C374DD14-FCA1-4BA0-8802-E5EC6A1F8771}|VehicleServices\\VehicleServices.csproj|c:\\users\\nikola\\desktop\\private rep\\finki\\is\\project\\vehiclecreating - copy\\vehicleservices\\implementation\\etlservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C374DD14-FCA1-4BA0-8802-E5EC6A1F8771}|VehicleServices\\VehicleServices.csproj|solutionrelative:vehicleservices\\implementation\\etlservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C374DD14-FCA1-4BA0-8802-E5EC6A1F8771}|VehicleServices\\VehicleServices.csproj|c:\\users\\nikola\\desktop\\private rep\\finki\\is\\project\\vehiclecreating - copy\\vehicleservices\\interface\\ietl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C374DD14-FCA1-4BA0-8802-E5EC6A1F8771}|VehicleServices\\VehicleServices.csproj|solutionrelative:vehicleservices\\interface\\ietl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7FABA88-A0C6-44E4-8E1D-6433AC2F6F48}|VehicleReposiotry\\VehicleReposiotry.csproj|c:\\users\\nikola\\desktop\\private rep\\finki\\is\\project\\vehiclecreating - copy\\vehiclereposiotry\\interface\\ietlrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7FABA88-A0C6-44E4-8E1D-6433AC2F6F48}|VehicleReposiotry\\VehicleReposiotry.csproj|solutionrelative:vehiclereposiotry\\interface\\ietlrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7FABA88-A0C6-44E4-8E1D-6433AC2F6F48}|VehicleReposiotry\\VehicleReposiotry.csproj|c:\\users\\nikola\\desktop\\private rep\\finki\\is\\project\\vehiclecreating - copy\\vehiclereposiotry\\interface\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7FABA88-A0C6-44E4-8E1D-6433AC2F6F48}|VehicleReposiotry\\VehicleReposiotry.csproj|solutionrelative:vehiclereposiotry\\interface\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7FABA88-A0C6-44E4-8E1D-6433AC2F6F48}|VehicleReposiotry\\VehicleReposiotry.csproj|c:\\users\\nikola\\desktop\\private rep\\finki\\is\\project\\vehiclecreating - copy\\vehiclereposiotry\\implementation\\userreposiotry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7FABA88-A0C6-44E4-8E1D-6433AC2F6F48}|VehicleReposiotry\\VehicleReposiotry.csproj|solutionrelative:vehiclereposiotry\\implementation\\userreposiotry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7FABA88-A0C6-44E4-8E1D-6433AC2F6F48}|VehicleReposiotry\\VehicleReposiotry.csproj|c:\\users\\nikola\\desktop\\private rep\\finki\\is\\project\\vehiclecreating - copy\\vehiclereposiotry\\interface\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7FABA88-A0C6-44E4-8E1D-6433AC2F6F48}|VehicleReposiotry\\VehicleReposiotry.csproj|solutionrelative:vehiclereposiotry\\interface\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C374DD14-FCA1-4BA0-8802-E5EC6A1F8771}|VehicleServices\\VehicleServices.csproj|c:\\users\\nikola\\desktop\\private rep\\finki\\is\\project\\vehiclecreating - copy\\vehicleservices\\interface\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C374DD14-FCA1-4BA0-8802-E5EC6A1F8771}|VehicleServices\\VehicleServices.csproj|solutionrelative:vehicleservices\\interface\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0048EB93-D4F9-4FB8-A1DB-897D25961098}|VehicleWeb\\VehicleWeb.csproj|c:\\users\\nikola\\desktop\\private rep\\finki\\is\\project\\vehiclecreating - copy\\vehicleweb\\controllers\\vehiclepartscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0048EB93-D4F9-4FB8-A1DB-897D25961098}|VehicleWeb\\VehicleWeb.csproj|solutionrelative:vehicleweb\\controllers\\vehiclepartscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B82CF25-FC5C-47F0-9800-87D94E99963E}|Domain\\Domain.csproj|c:\\users\\nikola\\desktop\\private rep\\finki\\is\\project\\vehiclecreating - copy\\domain\\nadvor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B82CF25-FC5C-47F0-9800-87D94E99963E}|Domain\\Domain.csproj|solutionrelative:domain\\nadvor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7FABA88-A0C6-44E4-8E1D-6433AC2F6F48}|VehicleReposiotry\\VehicleReposiotry.csproj|c:\\users\\nikola\\desktop\\private rep\\finki\\is\\project\\vehiclecreating - copy\\vehiclereposiotry\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7FABA88-A0C6-44E4-8E1D-6433AC2F6F48}|VehicleReposiotry\\VehicleReposiotry.csproj|solutionrelative:vehiclereposiotry\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7FABA88-A0C6-44E4-8E1D-6433AC2F6F48}|VehicleReposiotry\\VehicleReposiotry.csproj|c:\\users\\nikola\\desktop\\private rep\\finki\\is\\project\\vehiclecreating - copy\\vehiclereposiotry\\migrations\\20240707014832_etlsaswws.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7FABA88-A0C6-44E4-8E1D-6433AC2F6F48}|VehicleReposiotry\\VehicleReposiotry.csproj|solutionrelative:vehiclereposiotry\\migrations\\20240707014832_etlsaswws.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0048EB93-D4F9-4FB8-A1DB-897D25961098}|VehicleWeb\\VehicleWeb.csproj|c:\\users\\nikola\\desktop\\private rep\\finki\\is\\project\\vehiclecreating - copy\\vehicleweb\\views\\vehicleparts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0048EB93-D4F9-4FB8-A1DB-897D25961098}|VehicleWeb\\VehicleWeb.csproj|solutionrelative:vehicleweb\\views\\vehicleparts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0048EB93-D4F9-4FB8-A1DB-897D25961098}|VehicleWeb\\VehicleWeb.csproj|c:\\users\\nikola\\desktop\\private rep\\finki\\is\\project\\vehiclecreating - copy\\vehicleweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0048EB93-D4F9-4FB8-A1DB-897D25961098}|VehicleWeb\\VehicleWeb.csproj|solutionrelative:vehicleweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B82CF25-FC5C-47F0-9800-87D94E99963E}|Domain\\Domain.csproj|c:\\users\\nikola\\desktop\\private rep\\finki\\is\\project\\vehiclecreating - copy\\domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0B82CF25-FC5C-47F0-9800-87D94E99963E}|Domain\\Domain.csproj|solutionrelative:domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0048EB93-D4F9-4FB8-A1DB-897D25961098}|VehicleWeb\\VehicleWeb.csproj|c:\\users\\nikola\\desktop\\private rep\\finki\\is\\project\\vehiclecreating - copy\\vehicleweb\\views\\shopping\\ordersadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0048EB93-D4F9-4FB8-A1DB-897D25961098}|VehicleWeb\\VehicleWeb.csproj|solutionrelative:vehicleweb\\views\\shopping\\ordersadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C374DD14-FCA1-4BA0-8802-E5EC6A1F8771}|VehicleServices\\VehicleServices.csproj|c:\\users\\nikola\\desktop\\private rep\\finki\\is\\project\\vehiclecreating - copy\\vehicleservices\\implementation\\shoppingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C374DD14-FCA1-4BA0-8802-E5EC6A1F8771}|VehicleServices\\VehicleServices.csproj|solutionrelative:vehicleservices\\implementation\\shoppingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B82CF25-FC5C-47F0-9800-87D94E99963E}|Domain\\Domain.csproj|c:\\users\\nikola\\desktop\\private rep\\finki\\is\\project\\vehiclecreating - copy\\domain\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B82CF25-FC5C-47F0-9800-87D94E99963E}|Domain\\Domain.csproj|solutionrelative:domain\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B82CF25-FC5C-47F0-9800-87D94E99963E}|Domain\\Domain.csproj|c:\\users\\nikola\\desktop\\private rep\\finki\\is\\project\\vehiclecreating - copy\\domain\\vehicleparts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B82CF25-FC5C-47F0-9800-87D94E99963E}|Domain\\Domain.csproj|solutionrelative:domain\\vehicleparts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B82CF25-FC5C-47F0-9800-87D94E99963E}|Domain\\Domain.csproj|c:\\users\\nikola\\desktop\\private rep\\finki\\is\\project\\vehiclecreating - copy\\domain\\vehicleformula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B82CF25-FC5C-47F0-9800-87D94E99963E}|Domain\\Domain.csproj|solutionrelative:domain\\vehicleformula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B82CF25-FC5C-47F0-9800-87D94E99963E}|Domain\\Domain.csproj|c:\\users\\nikola\\desktop\\private rep\\finki\\is\\project\\vehiclecreating - copy\\domain\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B82CF25-FC5C-47F0-9800-87D94E99963E}|Domain\\Domain.csproj|solutionrelative:domain\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B82CF25-FC5C-47F0-9800-87D94E99963E}|Domain\\Domain.csproj|c:\\users\\nikola\\desktop\\private rep\\finki\\is\\project\\vehiclecreating - copy\\domain\\identity\\vehicleapplicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B82CF25-FC5C-47F0-9800-87D94E99963E}|Domain\\Domain.csproj|solutionrelative:domain\\identity\\vehicleapplicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0048EB93-D4F9-4FB8-A1DB-897D25961098}|VehicleWeb\\VehicleWeb.csproj|c:\\users\\nikola\\desktop\\private rep\\finki\\is\\project\\vehiclecreating - copy\\vehicleweb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0048EB93-D4F9-4FB8-A1DB-897D25961098}|VehicleWeb\\VehicleWeb.csproj|solutionrelative:vehicleweb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0048EB93-D4F9-4FB8-A1DB-897D25961098}|VehicleWeb\\VehicleWeb.csproj|c:\\users\\nikola\\desktop\\private rep\\finki\\is\\project\\vehiclecreating - copy\\vehicleweb\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{0048EB93-D4F9-4FB8-A1DB-897D25961098}|VehicleWeb\\VehicleWeb.csproj|solutionrelative:vehicleweb\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0048EB93-D4F9-4FB8-A1DB-897D25961098}|VehicleWeb\\VehicleWeb.csproj|c:\\users\\nikola\\desktop\\private rep\\finki\\is\\project\\vehiclecreating - copy\\vehicleweb\\views\\shopping\\actionresult.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0048EB93-D4F9-4FB8-A1DB-897D25961098}|VehicleWeb\\VehicleWeb.csproj|solutionrelative:vehicleweb\\views\\shopping\\actionresult.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0048EB93-D4F9-4FB8-A1DB-897D25961098}|VehicleWeb\\VehicleWeb.csproj|c:\\users\\nikola\\desktop\\private rep\\finki\\is\\project\\vehiclecreating - copy\\vehicleweb\\views\\home\\galleryfull.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0048EB93-D4F9-4FB8-A1DB-897D25961098}|VehicleWeb\\VehicleWeb.csproj|solutionrelative:vehicleweb\\views\\home\\galleryfull.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0048EB93-D4F9-4FB8-A1DB-897D25961098}|VehicleWeb\\VehicleWeb.csproj|c:\\users\\nikola\\desktop\\private rep\\finki\\is\\project\\vehiclecreating - copy\\vehicleweb\\views\\shopping\\showorders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0048EB93-D4F9-4FB8-A1DB-897D25961098}|VehicleWeb\\VehicleWeb.csproj|solutionrelative:vehicleweb\\views\\shopping\\showorders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0048EB93-D4F9-4FB8-A1DB-897D25961098}|VehicleWeb\\VehicleWeb.csproj|c:\\users\\nikola\\desktop\\private rep\\finki\\is\\project\\vehiclecreating - copy\\vehicleweb\\views\\shopping\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0048EB93-D4F9-4FB8-A1DB-897D25961098}|VehicleWeb\\VehicleWeb.csproj|solutionrelative:vehicleweb\\views\\shopping\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0048EB93-D4F9-4FB8-A1DB-897D25961098}|VehicleWeb\\VehicleWeb.csproj|c:\\users\\nikola\\desktop\\private rep\\finki\\is\\project\\vehiclecreating - copy\\vehicleweb\\views\\vehicleparts\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0048EB93-D4F9-4FB8-A1DB-897D25961098}|VehicleWeb\\VehicleWeb.csproj|solutionrelative:vehicleweb\\views\\vehicleparts\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0048EB93-D4F9-4FB8-A1DB-897D25961098}|VehicleWeb\\VehicleWeb.csproj|c:\\users\\nikola\\desktop\\private rep\\finki\\is\\project\\vehiclecreating - copy\\vehicleweb\\views\\vehicleparts\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0048EB93-D4F9-4FB8-A1DB-897D25961098}|VehicleWeb\\VehicleWeb.csproj|solutionrelative:vehicleweb\\views\\vehicleparts\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0048EB93-D4F9-4FB8-A1DB-897D25961098}|VehicleWeb\\VehicleWeb.csproj|c:\\users\\nikola\\desktop\\private rep\\finki\\is\\project\\vehiclecreating - copy\\vehicleweb\\views\\vehicleparts\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0048EB93-D4F9-4FB8-A1DB-897D25961098}|VehicleWeb\\VehicleWeb.csproj|solutionrelative:vehicleweb\\views\\vehicleparts\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0048EB93-D4F9-4FB8-A1DB-897D25961098}|VehicleWeb\\VehicleWeb.csproj|c:\\users\\nikola\\desktop\\private rep\\finki\\is\\project\\vehiclecreating - copy\\vehicleweb\\views\\vehicleparts\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0048EB93-D4F9-4FB8-A1DB-897D25961098}|VehicleWeb\\VehicleWeb.csproj|solutionrelative:vehicleweb\\views\\vehicleparts\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0048EB93-D4F9-4FB8-A1DB-897D25961098}|VehicleWeb\\VehicleWeb.csproj|c:\\users\\nikola\\desktop\\private rep\\finki\\is\\project\\vehiclecreating - copy\\vehicleweb\\views\\vehicleformulas\\setadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0048EB93-D4F9-4FB8-A1DB-897D25961098}|VehicleWeb\\VehicleWeb.csproj|solutionrelative:vehicleweb\\views\\vehicleformulas\\setadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0048EB93-D4F9-4FB8-A1DB-897D25961098}|VehicleWeb\\VehicleWeb.csproj|c:\\users\\nikola\\desktop\\private rep\\finki\\is\\project\\vehiclecreating - copy\\vehicleweb\\views\\shopping\\ordersadmindetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0048EB93-D4F9-4FB8-A1DB-897D25961098}|VehicleWeb\\VehicleWeb.csproj|solutionrelative:vehicleweb\\views\\shopping\\ordersadmindetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C374DD14-FCA1-4BA0-8802-E5EC6A1F8771}|VehicleServices\\VehicleServices.csproj|c:\\users\\nikola\\desktop\\private rep\\finki\\is\\project\\vehiclecreating - copy\\vehicleservices\\implementation\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C374DD14-FCA1-4BA0-8802-E5EC6A1F8771}|VehicleServices\\VehicleServices.csproj|solutionrelative:vehicleservices\\implementation\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C374DD14-FCA1-4BA0-8802-E5EC6A1F8771}|VehicleServices\\VehicleServices.csproj|c:\\users\\nikola\\desktop\\private rep\\finki\\is\\project\\vehiclecreating - copy\\vehicleservices\\interface\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C374DD14-FCA1-4BA0-8802-E5EC6A1F8771}|VehicleServices\\VehicleServices.csproj|solutionrelative:vehicleservices\\interface\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7FABA88-A0C6-44E4-8E1D-6433AC2F6F48}|VehicleReposiotry\\VehicleReposiotry.csproj|c:\\users\\nikola\\desktop\\private rep\\finki\\is\\project\\vehiclecreating - copy\\vehiclereposiotry\\implementation\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7FABA88-A0C6-44E4-8E1D-6433AC2F6F48}|VehicleReposiotry\\VehicleReposiotry.csproj|solutionrelative:vehiclereposiotry\\implementation\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7FABA88-A0C6-44E4-8E1D-6433AC2F6F48}|VehicleReposiotry\\VehicleReposiotry.csproj|c:\\users\\nikola\\desktop\\private rep\\finki\\is\\project\\vehiclecreating - copy\\vehiclereposiotry\\implementation\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7FABA88-A0C6-44E4-8E1D-6433AC2F6F48}|VehicleReposiotry\\VehicleReposiotry.csproj|solutionrelative:vehiclereposiotry\\implementation\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7FABA88-A0C6-44E4-8E1D-6433AC2F6F48}|VehicleReposiotry\\VehicleReposiotry.csproj|c:\\users\\nikola\\desktop\\private rep\\finki\\is\\project\\vehiclecreating - copy\\vehiclereposiotry\\interface\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7FABA88-A0C6-44E4-8E1D-6433AC2F6F48}|VehicleReposiotry\\VehicleReposiotry.csproj|solutionrelative:vehiclereposiotry\\interface\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0048EB93-D4F9-4FB8-A1DB-897D25961098}|VehicleWeb\\VehicleWeb.csproj|c:\\users\\nikola\\desktop\\private rep\\finki\\is\\project\\vehiclecreating - copy\\vehicleweb\\controllers\\proba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0048EB93-D4F9-4FB8-A1DB-897D25961098}|VehicleWeb\\VehicleWeb.csproj|solutionrelative:vehicleweb\\controllers\\proba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0048EB93-D4F9-4FB8-A1DB-897D25961098}|VehicleWeb\\VehicleWeb.csproj|c:\\users\\nikola\\desktop\\private rep\\finki\\is\\project\\vehiclecreating - copy\\vehicleweb\\views\\vehicleformulas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0048EB93-D4F9-4FB8-A1DB-897D25961098}|VehicleWeb\\VehicleWeb.csproj|solutionrelative:vehicleweb\\views\\vehicleformulas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0048EB93-D4F9-4FB8-A1DB-897D25961098}|VehicleWeb\\VehicleWeb.csproj|c:\\users\\nikola\\desktop\\private rep\\finki\\is\\project\\vehiclecreating - copy\\vehicleweb\\wwwroot\\js\\users.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{0048EB93-D4F9-4FB8-A1DB-897D25961098}|VehicleWeb\\VehicleWeb.csproj|solutionrelative:vehicleweb\\wwwroot\\js\\users.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0048EB93-D4F9-4FB8-A1DB-897D25961098}|VehicleWeb\\VehicleWeb.csproj|c:\\users\\nikola\\desktop\\private rep\\finki\\is\\project\\vehiclecreating - copy\\vehicleweb\\wwwroot\\js\\product.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{0048EB93-D4F9-4FB8-A1DB-897D25961098}|VehicleWeb\\VehicleWeb.csproj|solutionrelative:vehicleweb\\wwwroot\\js\\product.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0048EB93-D4F9-4FB8-A1DB-897D25961098}|VehicleWeb\\VehicleWeb.csproj|c:\\users\\nikola\\desktop\\private rep\\finki\\is\\project\\vehiclecreating - copy\\vehicleweb\\wwwroot\\js\\order.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{0048EB93-D4F9-4FB8-A1DB-897D25961098}|VehicleWeb\\VehicleWeb.csproj|solutionrelative:vehicleweb\\wwwroot\\js\\order.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0048EB93-D4F9-4FB8-A1DB-897D25961098}|VehicleWeb\\VehicleWeb.csproj|c:\\users\\nikola\\desktop\\private rep\\finki\\is\\project\\vehiclecreating - copy\\vehicleweb\\wwwroot\\js\\product2.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{0048EB93-D4F9-4FB8-A1DB-897D25961098}|VehicleWeb\\VehicleWeb.csproj|solutionrelative:vehicleweb\\wwwroot\\js\\product2.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0048EB93-D4F9-4FB8-A1DB-897D25961098}|VehicleWeb\\VehicleWeb.csproj|c:\\users\\nikola\\desktop\\private rep\\finki\\is\\project\\vehiclecreating - copy\\vehicleweb\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{0048EB93-D4F9-4FB8-A1DB-897D25961098}|VehicleWeb\\VehicleWeb.csproj|solutionrelative:vehicleweb\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B82CF25-FC5C-47F0-9800-87D94E99963E}|Domain\\Domain.csproj|c:\\users\\nikola\\desktop\\private rep\\finki\\is\\project\\vehiclecreating - copy\\domain\\dto\\usersdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B82CF25-FC5C-47F0-9800-87D94E99963E}|Domain\\Domain.csproj|solutionrelative:domain\\dto\\usersdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0048EB93-D4F9-4FB8-A1DB-897D25961098}|VehicleWeb\\VehicleWeb.csproj|c:\\users\\nikola\\desktop\\private rep\\finki\\is\\project\\vehiclecreating - copy\\vehicleweb\\wwwroot\\js\\gallery.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{0048EB93-D4F9-4FB8-A1DB-897D25961098}|VehicleWeb\\VehicleWeb.csproj|solutionrelative:vehicleweb\\wwwroot\\js\\gallery.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0048EB93-D4F9-4FB8-A1DB-897D25961098}|VehicleWeb\\VehicleWeb.csproj|c:\\users\\nikola\\desktop\\private rep\\finki\\is\\project\\vehiclecreating - copy\\vehicleweb\\views\\proba\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0048EB93-D4F9-4FB8-A1DB-897D25961098}|VehicleWeb\\VehicleWeb.csproj|solutionrelative:vehicleweb\\views\\proba\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0048EB93-D4F9-4FB8-A1DB-897D25961098}|VehicleWeb\\VehicleWeb.csproj|c:\\users\\nikola\\desktop\\private rep\\finki\\is\\project\\vehiclecreating - copy\\vehicleweb\\views\\shopping\\usershoppingcart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0048EB93-D4F9-4FB8-A1DB-897D25961098}|VehicleWeb\\VehicleWeb.csproj|solutionrelative:vehicleweb\\views\\shopping\\usershoppingcart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0048EB93-D4F9-4FB8-A1DB-897D25961098}|VehicleWeb\\VehicleWeb.csproj|c:\\users\\nikola\\desktop\\private rep\\finki\\is\\project\\vehiclecreating - copy\\vehicleweb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0048EB93-D4F9-4FB8-A1DB-897D25961098}|VehicleWeb\\VehicleWeb.csproj|solutionrelative:vehicleweb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0048EB93-D4F9-4FB8-A1DB-897D25961098}|VehicleWeb\\VehicleWeb.csproj|c:\\users\\nikola\\desktop\\private rep\\finki\\is\\project\\vehiclecreating - copy\\vehicleweb\\views\\proba\\notactive.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0048EB93-D4F9-4FB8-A1DB-897D25961098}|VehicleWeb\\VehicleWeb.csproj|solutionrelative:vehicleweb\\views\\proba\\notactive.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0048EB93-D4F9-4FB8-A1DB-897D25961098}|VehicleWeb\\VehicleWeb.csproj|c:\\users\\nikola\\desktop\\private rep\\finki\\is\\project\\vehiclecreating - copy\\vehicleweb\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0048EB93-D4F9-4FB8-A1DB-897D25961098}|VehicleWeb\\VehicleWeb.csproj|solutionrelative:vehicleweb\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0048EB93-D4F9-4FB8-A1DB-897D25961098}|VehicleWeb\\VehicleWeb.csproj|c:\\users\\nikola\\desktop\\private rep\\finki\\is\\project\\vehiclecreating - copy\\vehicleweb\\views\\proba\\failed.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0048EB93-D4F9-4FB8-A1DB-897D25961098}|VehicleWeb\\VehicleWeb.csproj|solutionrelative:vehicleweb\\views\\proba\\failed.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B82CF25-FC5C-47F0-9800-87D94E99963E}|Domain\\Domain.csproj|c:\\users\\nikola\\desktop\\private rep\\finki\\is\\project\\vehiclecreating - copy\\domain\\dto\\shoppingvehicleformulatypedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B82CF25-FC5C-47F0-9800-87D94E99963E}|Domain\\Domain.csproj|solutionrelative:domain\\dto\\shoppingvehicleformulatypedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B82CF25-FC5C-47F0-9800-87D94E99963E}|Domain\\Domain.csproj|c:\\users\\nikola\\desktop\\private rep\\finki\\is\\project\\vehiclecreating - copy\\domain\\dto\\shoppingvehicletypedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B82CF25-FC5C-47F0-9800-87D94E99963E}|Domain\\Domain.csproj|solutionrelative:domain\\dto\\shoppingvehicletypedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7FABA88-A0C6-44E4-8E1D-6433AC2F6F48}|VehicleReposiotry\\VehicleReposiotry.csproj|c:\\users\\nikola\\desktop\\private rep\\finki\\is\\project\\vehiclecreating - copy\\vehiclereposiotry\\vehiclereposiotry.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C7FABA88-A0C6-44E4-8E1D-6433AC2F6F48}|VehicleReposiotry\\VehicleReposiotry.csproj|solutionrelative:vehiclereposiotry\\vehiclereposiotry.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7FABA88-A0C6-44E4-8E1D-6433AC2F6F48}|VehicleReposiotry\\VehicleReposiotry.csproj|c:\\users\\nikola\\desktop\\private rep\\finki\\is\\project\\vehiclecreating - copy\\vehiclereposiotry\\migrations\\20240620160744_smtp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7FABA88-A0C6-44E4-8E1D-6433AC2F6F48}|VehicleReposiotry\\VehicleReposiotry.csproj|solutionrelative:vehiclereposiotry\\migrations\\20240620160744_smtp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B82CF25-FC5C-47F0-9800-87D94E99963E}|Domain\\Domain.csproj|c:\\users\\nikola\\desktop\\private rep\\finki\\is\\project\\vehiclecreating - copy\\domain\\emailmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B82CF25-FC5C-47F0-9800-87D94E99963E}|Domain\\Domain.csproj|solutionrelative:domain\\emailmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B82CF25-FC5C-47F0-9800-87D94E99963E}|Domain\\Domain.csproj|c:\\users\\nikola\\desktop\\private rep\\finki\\is\\project\\vehiclecreating - copy\\domain\\stripesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B82CF25-FC5C-47F0-9800-87D94E99963E}|Domain\\Domain.csproj|solutionrelative:domain\\stripesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B82CF25-FC5C-47F0-9800-87D94E99963E}|Domain\\Domain.csproj|c:\\users\\nikola\\desktop\\private rep\\finki\\is\\project\\vehiclecreating - copy\\domain\\dto\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B82CF25-FC5C-47F0-9800-87D94E99963E}|Domain\\Domain.csproj|solutionrelative:domain\\dto\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C374DD14-FCA1-4BA0-8802-E5EC6A1F8771}|VehicleServices\\VehicleServices.csproj|c:\\users\\nikola\\desktop\\private rep\\finki\\is\\project\\vehiclecreating - copy\\vehicleservices\\interface\\ishopping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C374DD14-FCA1-4BA0-8802-E5EC6A1F8771}|VehicleServices\\VehicleServices.csproj|solutionrelative:vehicleservices\\interface\\ishopping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B82CF25-FC5C-47F0-9800-87D94E99963E}|Domain\\Domain.csproj|c:\\users\\nikola\\desktop\\private rep\\finki\\is\\project\\vehiclecreating - copy\\domain\\dto\\usershoppingcartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B82CF25-FC5C-47F0-9800-87D94E99963E}|Domain\\Domain.csproj|solutionrelative:domain\\dto\\usershoppingcartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C374DD14-FCA1-4BA0-8802-E5EC6A1F8771}|VehicleServices\\VehicleServices.csproj|c:\\users\\nikola\\desktop\\private rep\\finki\\is\\project\\vehiclecreating - copy\\vehicleservices\\implementation\\vehiclepartsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C374DD14-FCA1-4BA0-8802-E5EC6A1F8771}|VehicleServices\\VehicleServices.csproj|solutionrelative:vehicleservices\\implementation\\vehiclepartsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C374DD14-FCA1-4BA0-8802-E5EC6A1F8771}|VehicleServices\\VehicleServices.csproj|c:\\users\\nikola\\desktop\\private rep\\finki\\is\\project\\vehiclecreating - copy\\vehicleservices\\implementation\\rolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C374DD14-FCA1-4BA0-8802-E5EC6A1F8771}|VehicleServices\\VehicleServices.csproj|solutionrelative:vehicleservices\\implementation\\rolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0048EB93-D4F9-4FB8-A1DB-897D25961098}|VehicleWeb\\VehicleWeb.csproj|c:\\users\\nikola\\desktop\\private rep\\finki\\is\\project\\vehiclecreating - copy\\vehicleweb\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0048EB93-D4F9-4FB8-A1DB-897D25961098}|VehicleWeb\\VehicleWeb.csproj|solutionrelative:vehicleweb\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0048EB93-D4F9-4FB8-A1DB-897D25961098}|VehicleWeb\\VehicleWeb.csproj|c:\\users\\nikola\\desktop\\private rep\\finki\\is\\project\\vehiclecreating - copy\\vehicleweb\\views\\vehicleformulas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0048EB93-D4F9-4FB8-A1DB-897D25961098}|VehicleWeb\\VehicleWeb.csproj|solutionrelative:vehicleweb\\views\\vehicleformulas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0048EB93-D4F9-4FB8-A1DB-897D25961098}|VehicleWeb\\VehicleWeb.csproj|c:\\users\\nikola\\desktop\\private rep\\finki\\is\\project\\vehiclecreating - copy\\vehicleweb\\views\\vehicleformulas\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0048EB93-D4F9-4FB8-A1DB-897D25961098}|VehicleWeb\\VehicleWeb.csproj|solutionrelative:vehicleweb\\views\\vehicleformulas\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C374DD14-FCA1-4BA0-8802-E5EC6A1F8771}|VehicleServices\\VehicleServices.csproj|c:\\users\\nikola\\desktop\\private rep\\finki\\is\\project\\vehiclecreating - copy\\vehicleservices\\interface\\ivehicleformula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C374DD14-FCA1-4BA0-8802-E5EC6A1F8771}|VehicleServices\\VehicleServices.csproj|solutionrelative:vehicleservices\\interface\\ivehicleformula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B82CF25-FC5C-47F0-9800-87D94E99963E}|Domain\\Domain.csproj|c:\\users\\nikola\\desktop\\private rep\\finki\\is\\project\\vehiclecreating - copy\\domain\\dto\\homepagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B82CF25-FC5C-47F0-9800-87D94E99963E}|Domain\\Domain.csproj|solutionrelative:domain\\dto\\homepagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7FABA88-A0C6-44E4-8E1D-6433AC2F6F48}|VehicleReposiotry\\VehicleReposiotry.csproj|c:\\users\\nikola\\desktop\\private rep\\finki\\is\\project\\vehiclecreating - copy\\vehiclereposiotry\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7FABA88-A0C6-44E4-8E1D-6433AC2F6F48}|VehicleReposiotry\\VehicleReposiotry.csproj|solutionrelative:vehiclereposiotry\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0048EB93-D4F9-4FB8-A1DB-897D25961098}|VehicleWeb\\VehicleWeb.csproj|c:\\users\\nikola\\desktop\\private rep\\finki\\is\\project\\vehiclecreating - copy\\vehicleweb\\views\\vehicleformulas\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0048EB93-D4F9-4FB8-A1DB-897D25961098}|VehicleWeb\\VehicleWeb.csproj|solutionrelative:vehicleweb\\views\\vehicleformulas\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0048EB93-D4F9-4FB8-A1DB-897D25961098}|VehicleWeb\\VehicleWeb.csproj|c:\\users\\nikola\\desktop\\private rep\\finki\\is\\project\\vehiclecreating - copy\\vehicleweb\\views\\vehicleformulas\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0048EB93-D4F9-4FB8-A1DB-897D25961098}|VehicleWeb\\VehicleWeb.csproj|solutionrelative:vehicleweb\\views\\vehicleformulas\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C374DD14-FCA1-4BA0-8802-E5EC6A1F8771}|VehicleServices\\VehicleServices.csproj|c:\\users\\nikola\\desktop\\private rep\\finki\\is\\project\\vehiclecreating - copy\\vehicleservices\\interface\\ivehicleparts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C374DD14-FCA1-4BA0-8802-E5EC6A1F8771}|VehicleServices\\VehicleServices.csproj|solutionrelative:vehicleservices\\interface\\ivehicleparts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C374DD14-FCA1-4BA0-8802-E5EC6A1F8771}|VehicleServices\\VehicleServices.csproj|c:\\users\\nikola\\desktop\\private rep\\finki\\is\\project\\vehiclecreating - copy\\vehicleservices\\interface\\iroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C374DD14-FCA1-4BA0-8802-E5EC6A1F8771}|VehicleServices\\VehicleServices.csproj|solutionrelative:vehicleservices\\interface\\iroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7FABA88-A0C6-44E4-8E1D-6433AC2F6F48}|VehicleReposiotry\\VehicleReposiotry.csproj|c:\\users\\nikola\\desktop\\private rep\\finki\\is\\project\\vehiclecreating - copy\\vehiclereposiotry\\migrations\\20240614162007_vehicle_formula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7FABA88-A0C6-44E4-8E1D-6433AC2F6F48}|VehicleReposiotry\\VehicleReposiotry.csproj|solutionrelative:vehiclereposiotry\\migrations\\20240614162007_vehicle_formula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B82CF25-FC5C-47F0-9800-87D94E99963E}|Domain\\Domain.csproj|c:\\users\\nikola\\desktop\\private rep\\finki\\is\\project\\vehiclecreating - copy\\domain\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B82CF25-FC5C-47F0-9800-87D94E99963E}|Domain\\Domain.csproj|solutionrelative:domain\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0048EB93-D4F9-4FB8-A1DB-897D25961098}|VehicleWeb\\VehicleWeb.csproj|c:\\users\\nikola\\desktop\\private rep\\finki\\is\\project\\vehiclecreating - copy\\vehicleweb\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0048EB93-D4F9-4FB8-A1DB-897D25961098}|VehicleWeb\\VehicleWeb.csproj|solutionrelative:vehicleweb\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C374DD14-FCA1-4BA0-8802-E5EC6A1F8771}|VehicleServices\\VehicleServices.csproj|c:\\users\\nikola\\desktop\\private rep\\finki\\is\\project\\vehiclecreating - copy\\vehicleservices\\vehicleservices.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C374DD14-FCA1-4BA0-8802-E5EC6A1F8771}|VehicleServices\\VehicleServices.csproj|solutionrelative:vehicleservices\\vehicleservices.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B82CF25-FC5C-47F0-9800-87D94E99963E}|Domain\\Domain.csproj|c:\\users\\nikola\\desktop\\private rep\\finki\\is\\project\\vehiclecreating - copy\\domain\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B82CF25-FC5C-47F0-9800-87D94E99963E}|Domain\\Domain.csproj|solutionrelative:domain\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/aspnet_VehicleWeb2_b96503b0_8be7_445c_a7db_166c54005147/True/SqlTable/dbo.AspNetUsers.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/aspnet_VehicleWeb2_b96503b0_8be7_445c_a7db_166c54005147/True/SqlTable/dbo.AspNetRoles.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0048EB93-D4F9-4FB8-A1DB-897D25961098}|VehicleWeb\\VehicleWeb.csproj|c:\\users\\nikola\\desktop\\private rep\\finki\\is\\project\\vehiclecreating - copy\\vehicleweb\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0048EB93-D4F9-4FB8-A1DB-897D25961098}|VehicleWeb\\VehicleWeb.csproj|solutionrelative:vehicleweb\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0048EB93-D4F9-4FB8-A1DB-897D25961098}|VehicleWeb\\VehicleWeb.csproj|c:\\users\\nikola\\desktop\\private rep\\finki\\is\\project\\vehiclecreating - copy\\vehicleweb\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0048EB93-D4F9-4FB8-A1DB-897D25961098}|VehicleWeb\\VehicleWeb.csproj|solutionrelative:vehicleweb\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7FABA88-A0C6-44E4-8E1D-6433AC2F6F48}|VehicleReposiotry\\VehicleReposiotry.csproj|c:\\users\\nikola\\desktop\\private rep\\finki\\is\\project\\vehiclecreating - copy\\vehiclereposiotry\\migrations\\20240613164945_init343.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7FABA88-A0C6-44E4-8E1D-6433AC2F6F48}|VehicleReposiotry\\VehicleReposiotry.csproj|solutionrelative:vehiclereposiotry\\migrations\\20240613164945_init343.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0048EB93-D4F9-4FB8-A1DB-897D25961098}|VehicleWeb\\VehicleWeb.csproj|c:\\users\\nikola\\desktop\\private rep\\finki\\is\\project\\vehiclecreating - copy\\vehicleweb\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0048EB93-D4F9-4FB8-A1DB-897D25961098}|VehicleWeb\\VehicleWeb.csproj|solutionrelative:vehicleweb\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0048EB93-D4F9-4FB8-A1DB-897D25961098}|VehicleWeb\\VehicleWeb.csproj|c:\\users\\nikola\\desktop\\private rep\\finki\\is\\project\\vehiclecreating - copy\\vehicleweb\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0048EB93-D4F9-4FB8-A1DB-897D25961098}|VehicleWeb\\VehicleWeb.csproj|solutionrelative:vehicleweb\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0048EB93-D4F9-4FB8-A1DB-897D25961098}|VehicleWeb\\VehicleWeb.csproj|c:\\users\\nikola\\desktop\\private rep\\finki\\is\\project\\vehiclecreating - copy\\vehicleweb\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0048EB93-D4F9-4FB8-A1DB-897D25961098}|VehicleWeb\\VehicleWeb.csproj|solutionrelative:vehicleweb\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Nikola\\Desktop\\Kolokviumska\\VehicleCreating\\VehicleReposiotry\\Migrations\\20240613163831_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0048EB93-D4F9-4FB8-A1DB-897D25961098}|VehicleWeb\\VehicleWeb.csproj|c:\\users\\nikola\\desktop\\private rep\\finki\\is\\project\\vehiclecreating - copy\\vehicleweb\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0048EB93-D4F9-4FB8-A1DB-897D25961098}|VehicleWeb\\VehicleWeb.csproj|solutionrelative:vehicleweb\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0048EB93-D4F9-4FB8-A1DB-897D25961098}|VehicleWeb\\VehicleWeb.csproj|c:\\users\\nikola\\desktop\\private rep\\finki\\is\\project\\vehiclecreating - copy\\vehicleweb\\properties\\servicedependencies.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0048EB93-D4F9-4FB8-A1DB-897D25961098}|VehicleWeb\\VehicleWeb.csproj|solutionrelative:vehicleweb\\properties\\servicedependencies.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0048EB93-D4F9-4FB8-A1DB-897D25961098}|VehicleWeb\\VehicleWeb.csproj|c:\\users\\nikola\\desktop\\private rep\\finki\\is\\project\\vehiclecreating - copy\\vehicleweb\\properties\\servicedependencies.local.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0048EB93-D4F9-4FB8-A1DB-897D25961098}|VehicleWeb\\VehicleWeb.csproj|solutionrelative:vehicleweb\\properties\\servicedependencies.local.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0048EB93-D4F9-4FB8-A1DB-897D25961098}|VehicleWeb\\VehicleWeb.csproj|c:\\users\\nikola\\desktop\\private rep\\finki\\is\\project\\vehiclecreating - copy\\vehicleweb\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0048EB93-D4F9-4FB8-A1DB-897D25961098}|VehicleWeb\\VehicleWeb.csproj|solutionrelative:vehicleweb\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0048EB93-D4F9-4FB8-A1DB-897D25961098}|VehicleWeb\\VehicleWeb.csproj|c:\\users\\nikola\\desktop\\private rep\\finki\\is\\project\\vehiclecreating - copy\\vehicleweb\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0048EB93-D4F9-4FB8-A1DB-897D25961098}|VehicleWeb\\VehicleWeb.csproj|solutionrelative:vehicleweb\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7FABA88-A0C6-44E4-8E1D-6433AC2F6F48}|VehicleReposiotry\\VehicleReposiotry.csproj|c:\\users\\nikola\\desktop\\private rep\\finki\\is\\project\\vehiclecreating - copy\\vehiclereposiotry\\migrations\\20240614151809_why.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7FABA88-A0C6-44E4-8E1D-6433AC2F6F48}|VehicleReposiotry\\VehicleReposiotry.csproj|solutionrelative:vehiclereposiotry\\migrations\\20240614151809_why.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7FABA88-A0C6-44E4-8E1D-6433AC2F6F48}|VehicleReposiotry\\VehicleReposiotry.csproj|c:\\users\\nikola\\desktop\\private rep\\finki\\is\\project\\vehiclecreating - copy\\vehiclereposiotry\\migrations\\20240614150115_sqllite2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7FABA88-A0C6-44E4-8E1D-6433AC2F6F48}|VehicleReposiotry\\VehicleReposiotry.csproj|solutionrelative:vehiclereposiotry\\migrations\\20240614150115_sqllite2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7FABA88-A0C6-44E4-8E1D-6433AC2F6F48}|VehicleReposiotry\\VehicleReposiotry.csproj|c:\\users\\nikola\\desktop\\private rep\\finki\\is\\project\\vehiclecreating - copy\\vehiclereposiotry\\migrations\\20240614145853_sqllite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7FABA88-A0C6-44E4-8E1D-6433AC2F6F48}|VehicleReposiotry\\VehicleReposiotry.csproj|solutionrelative:vehiclereposiotry\\migrations\\20240614145853_sqllite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7FABA88-A0C6-44E4-8E1D-6433AC2F6F48}|VehicleReposiotry\\VehicleReposiotry.csproj|c:\\users\\nikola\\desktop\\private rep\\finki\\is\\project\\vehiclecreating - copy\\vehiclereposiotry\\migrations\\20240614114709_role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7FABA88-A0C6-44E4-8E1D-6433AC2F6F48}|VehicleReposiotry\\VehicleReposiotry.csproj|solutionrelative:vehiclereposiotry\\migrations\\20240614114709_role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7FABA88-A0C6-44E4-8E1D-6433AC2F6F48}|VehicleReposiotry\\VehicleReposiotry.csproj|c:\\users\\nikola\\desktop\\private rep\\finki\\is\\project\\vehiclecreating - copy\\vehiclereposiotry\\migrations\\20240616123237_parts_image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7FABA88-A0C6-44E4-8E1D-6433AC2F6F48}|VehicleReposiotry\\VehicleReposiotry.csproj|solutionrelative:vehiclereposiotry\\migrations\\20240616123237_parts_image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7FABA88-A0C6-44E4-8E1D-6433AC2F6F48}|VehicleReposiotry\\VehicleReposiotry.csproj|c:\\users\\nikola\\desktop\\private rep\\finki\\is\\project\\vehiclecreating - copy\\vehiclereposiotry\\migrations\\20240616113509_parts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7FABA88-A0C6-44E4-8E1D-6433AC2F6F48}|VehicleReposiotry\\VehicleReposiotry.csproj|solutionrelative:vehiclereposiotry\\migrations\\20240616113509_parts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7FABA88-A0C6-44E4-8E1D-6433AC2F6F48}|VehicleReposiotry\\VehicleReposiotry.csproj|c:\\users\\nikola\\desktop\\private rep\\finki\\is\\project\\vehiclecreating - copy\\vehiclereposiotry\\migrations\\20240617135343_shoppingcart_allow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7FABA88-A0C6-44E4-8E1D-6433AC2F6F48}|VehicleReposiotry\\VehicleReposiotry.csproj|solutionrelative:vehiclereposiotry\\migrations\\20240617135343_shoppingcart_allow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7FABA88-A0C6-44E4-8E1D-6433AC2F6F48}|VehicleReposiotry\\VehicleReposiotry.csproj|c:\\users\\nikola\\desktop\\private rep\\finki\\is\\project\\vehiclecreating - copy\\vehiclereposiotry\\migrations\\20240617125520_shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7FABA88-A0C6-44E4-8E1D-6433AC2F6F48}|VehicleReposiotry\\VehicleReposiotry.csproj|solutionrelative:vehiclereposiotry\\migrations\\20240617125520_shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7FABA88-A0C6-44E4-8E1D-6433AC2F6F48}|VehicleReposiotry\\VehicleReposiotry.csproj|c:\\users\\nikola\\desktop\\private rep\\finki\\is\\project\\vehiclecreating - copy\\vehiclereposiotry\\migrations\\20240618121221_getshoppingcardforproducts2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7FABA88-A0C6-44E4-8E1D-6433AC2F6F48}|VehicleReposiotry\\VehicleReposiotry.csproj|solutionrelative:vehiclereposiotry\\migrations\\20240618121221_getshoppingcardforproducts2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7FABA88-A0C6-44E4-8E1D-6433AC2F6F48}|VehicleReposiotry\\VehicleReposiotry.csproj|c:\\users\\nikola\\desktop\\private rep\\finki\\is\\project\\vehiclecreating - copy\\vehiclereposiotry\\migrations\\20240618121137_getshoppingcardforproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7FABA88-A0C6-44E4-8E1D-6433AC2F6F48}|VehicleReposiotry\\VehicleReposiotry.csproj|solutionrelative:vehiclereposiotry\\migrations\\20240618121137_getshoppingcardforproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7FABA88-A0C6-44E4-8E1D-6433AC2F6F48}|VehicleReposiotry\\VehicleReposiotry.csproj|c:\\users\\nikola\\desktop\\private rep\\finki\\is\\project\\vehiclecreating - copy\\vehiclereposiotry\\migrations\\20240618120116_getshoppingcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7FABA88-A0C6-44E4-8E1D-6433AC2F6F48}|VehicleReposiotry\\VehicleReposiotry.csproj|solutionrelative:vehiclereposiotry\\migrations\\20240618120116_getshoppingcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7FABA88-A0C6-44E4-8E1D-6433AC2F6F48}|VehicleReposiotry\\VehicleReposiotry.csproj|c:\\users\\nikola\\desktop\\private rep\\finki\\is\\project\\vehiclecreating - copy\\vehiclereposiotry\\migrations\\20240622133707_done_order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7FABA88-A0C6-44E4-8E1D-6433AC2F6F48}|VehicleReposiotry\\VehicleReposiotry.csproj|solutionrelative:vehiclereposiotry\\migrations\\20240622133707_done_order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7FABA88-A0C6-44E4-8E1D-6433AC2F6F48}|VehicleReposiotry\\VehicleReposiotry.csproj|c:\\users\\nikola\\desktop\\private rep\\finki\\is\\project\\vehiclecreating - copy\\vehiclereposiotry\\migrations\\20240622133511_formula_parts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7FABA88-A0C6-44E4-8E1D-6433AC2F6F48}|VehicleReposiotry\\VehicleReposiotry.csproj|solutionrelative:vehiclereposiotry\\migrations\\20240622133511_formula_parts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7FABA88-A0C6-44E4-8E1D-6433AC2F6F48}|VehicleReposiotry\\VehicleReposiotry.csproj|c:\\users\\nikola\\desktop\\private rep\\finki\\is\\project\\vehiclecreating - copy\\vehiclereposiotry\\migrations\\20240707015407_nadvor2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7FABA88-A0C6-44E4-8E1D-6433AC2F6F48}|VehicleReposiotry\\VehicleReposiotry.csproj|solutionrelative:vehiclereposiotry\\migrations\\20240707015407_nadvor2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7FABA88-A0C6-44E4-8E1D-6433AC2F6F48}|VehicleReposiotry\\VehicleReposiotry.csproj|c:\\users\\nikola\\desktop\\private rep\\finki\\is\\project\\vehiclecreating - copy\\vehiclereposiotry\\migrations\\20240707015153_nadvor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7FABA88-A0C6-44E4-8E1D-6433AC2F6F48}|VehicleReposiotry\\VehicleReposiotry.csproj|solutionrelative:vehiclereposiotry\\migrations\\20240707015153_nadvor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7FABA88-A0C6-44E4-8E1D-6433AC2F6F48}|VehicleReposiotry\\VehicleReposiotry.csproj|c:\\users\\nikola\\desktop\\private rep\\finki\\is\\project\\vehiclecreating - copy\\vehiclereposiotry\\migrations\\20240707014220_etlsas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7FABA88-A0C6-44E4-8E1D-6433AC2F6F48}|VehicleReposiotry\\VehicleReposiotry.csproj|solutionrelative:vehiclereposiotry\\migrations\\20240707014220_etlsas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7FABA88-A0C6-44E4-8E1D-6433AC2F6F48}|VehicleReposiotry\\VehicleReposiotry.csproj|c:\\users\\nikola\\desktop\\private rep\\finki\\is\\project\\vehiclecreating - copy\\vehiclereposiotry\\migrations\\20240707013717_etls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7FABA88-A0C6-44E4-8E1D-6433AC2F6F48}|VehicleReposiotry\\VehicleReposiotry.csproj|solutionrelative:vehiclereposiotry\\migrations\\20240707013717_etls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "VehicleReposiotry.csproj",
+              "DocumentMoniker": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleReposiotry\\VehicleReposiotry.csproj",
+              "RelativeDocumentMoniker": "VehicleReposiotry\\VehicleReposiotry.csproj",
+              "ToolTip": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleReposiotry\\VehicleReposiotry.csproj",
+              "RelativeToolTip": "VehicleReposiotry\\VehicleReposiotry.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-13T16:01:19.556Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VehicleFormulaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleServices\\Implementation\\VehicleFormulaRepository.cs",
+              "RelativeDocumentMoniker": "VehicleServices\\Implementation\\VehicleFormulaRepository.cs",
+              "ToolTip": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleServices\\Implementation\\VehicleFormulaRepository.cs",
+              "RelativeToolTip": "VehicleServices\\Implementation\\VehicleFormulaRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T16:09:46.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ShoppingController.cs",
+              "DocumentMoniker": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleWeb\\Controllers\\ShoppingController.cs",
+              "RelativeDocumentMoniker": "VehicleWeb\\Controllers\\ShoppingController.cs",
+              "ToolTip": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleWeb\\Controllers\\ShoppingController.cs",
+              "RelativeToolTip": "VehicleWeb\\Controllers\\ShoppingController.cs",
+              "ViewState": "AQIAANwAAAAAAAAAAAAUwHoBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T12:57:18.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VehicleWeb.csproj",
+              "DocumentMoniker": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleWeb\\VehicleWeb.csproj",
+              "RelativeDocumentMoniker": "VehicleWeb\\VehicleWeb.csproj",
+              "ToolTip": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleWeb\\VehicleWeb.csproj",
+              "RelativeToolTip": "VehicleWeb\\VehicleWeb.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-13T16:02:02.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleWeb\\appsettings.json",
+              "RelativeDocumentMoniker": "VehicleWeb\\appsettings.json",
+              "ToolTip": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleWeb\\appsettings.json",
+              "RelativeToolTip": "VehicleWeb\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-13T16:15:46.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{131369f2-062d-44a2-8671-91ff31efb4f4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleWeb\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "VehicleWeb\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleWeb\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "VehicleWeb\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AQIAAG0AAAAAAAAAAAAlwIAAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T16:59:50.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleWeb\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "VehicleWeb\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleWeb\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "VehicleWeb\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-13T16:16:02.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleWeb\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "VehicleWeb\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleWeb\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "VehicleWeb\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-07T02:43:12.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleWeb\\Program.cs",
+              "RelativeDocumentMoniker": "VehicleWeb\\Program.cs",
+              "ToolTip": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleWeb\\Program.cs",
+              "RelativeToolTip": "VehicleWeb\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T16:12:39.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ETL.cs",
+              "DocumentMoniker": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleWeb\\Controllers\\ETL.cs",
+              "RelativeDocumentMoniker": "VehicleWeb\\Controllers\\ETL.cs",
+              "ToolTip": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleWeb\\Controllers\\ETL.cs",
+              "RelativeToolTip": "VehicleWeb\\Controllers\\ETL.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAiwBQAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T01:35:29.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "VehicleFormulasController.cs",
+              "DocumentMoniker": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleWeb\\Controllers\\VehicleFormulasController.cs",
+              "RelativeDocumentMoniker": "VehicleWeb\\Controllers\\VehicleFormulasController.cs",
+              "ToolTip": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleWeb\\Controllers\\VehicleFormulasController.cs",
+              "RelativeToolTip": "VehicleWeb\\Controllers\\VehicleFormulasController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwCAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T21:40:12.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ETLRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleReposiotry\\Implementation\\ETLRepository.cs",
+              "RelativeDocumentMoniker": "VehicleReposiotry\\Implementation\\ETLRepository.cs",
+              "ToolTip": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleReposiotry\\Implementation\\ETLRepository.cs",
+              "RelativeToolTip": "VehicleReposiotry\\Implementation\\ETLRepository.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAjwCMAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T02:14:57.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleWeb\\Views\\ETL\\Index.cshtml",
+              "RelativeDocumentMoniker": "VehicleWeb\\Views\\ETL\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleWeb\\Views\\ETL\\Index.cshtml",
+              "RelativeToolTip": "VehicleWeb\\Views\\ETL\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-07T01:36:03.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ETLService.cs",
+              "DocumentMoniker": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleServices\\Implementation\\ETLService.cs",
+              "RelativeDocumentMoniker": "VehicleServices\\Implementation\\ETLService.cs",
+              "ToolTip": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleServices\\Implementation\\ETLService.cs",
+              "RelativeToolTip": "VehicleServices\\Implementation\\ETLService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T02:11:07.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IETL.cs",
+              "DocumentMoniker": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleServices\\Interface\\IETL.cs",
+              "RelativeDocumentMoniker": "VehicleServices\\Interface\\IETL.cs",
+              "ToolTip": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleServices\\Interface\\IETL.cs",
+              "RelativeToolTip": "VehicleServices\\Interface\\IETL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T02:10:58.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IETLRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleReposiotry\\Interface\\IETLRepository.cs",
+              "RelativeDocumentMoniker": "VehicleReposiotry\\Interface\\IETLRepository.cs",
+              "ToolTip": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleReposiotry\\Interface\\IETLRepository.cs",
+              "RelativeToolTip": "VehicleReposiotry\\Interface\\IETLRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T02:13:13.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleReposiotry\\Interface\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "VehicleReposiotry\\Interface\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleReposiotry\\Interface\\IUserRepository.cs",
+              "RelativeToolTip": "VehicleReposiotry\\Interface\\IUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T11:56:16.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UserReposiotry.cs",
+              "DocumentMoniker": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleReposiotry\\Implementation\\UserReposiotry.cs",
+              "RelativeDocumentMoniker": "VehicleReposiotry\\Implementation\\UserReposiotry.cs",
+              "ToolTip": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleReposiotry\\Implementation\\UserReposiotry.cs",
+              "RelativeToolTip": "VehicleReposiotry\\Implementation\\UserReposiotry.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAIwEgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T11:59:35.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleReposiotry\\Interface\\IRepository.cs",
+              "RelativeDocumentMoniker": "VehicleReposiotry\\Interface\\IRepository.cs",
+              "ToolTip": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleReposiotry\\Interface\\IRepository.cs",
+              "RelativeToolTip": "VehicleReposiotry\\Interface\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T16:00:21.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IEmailService.cs",
+              "DocumentMoniker": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleServices\\Interface\\IEmailService.cs",
+              "RelativeDocumentMoniker": "VehicleServices\\Interface\\IEmailService.cs",
+              "ToolTip": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleServices\\Interface\\IEmailService.cs",
+              "RelativeToolTip": "VehicleServices\\Interface\\IEmailService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T02:10:57.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20240707014832_etlsaswws.cs",
+              "DocumentMoniker": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleReposiotry\\Migrations\\20240707014832_etlsaswws.cs",
+              "RelativeDocumentMoniker": "VehicleReposiotry\\Migrations\\20240707014832_etlsaswws.cs",
+              "ToolTip": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleReposiotry\\Migrations\\20240707014832_etlsaswws.cs",
+              "RelativeToolTip": "VehicleReposiotry\\Migrations\\20240707014832_etlsaswws.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T01:48:33.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Nadvor.cs",
+              "DocumentMoniker": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\Domain\\Nadvor.cs",
+              "RelativeDocumentMoniker": "Domain\\Nadvor.cs",
+              "ToolTip": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\Domain\\Nadvor.cs",
+              "RelativeToolTip": "Domain\\Nadvor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T01:34:12.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "VehiclePartsController.cs",
+              "DocumentMoniker": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleWeb\\Controllers\\VehiclePartsController.cs",
+              "RelativeDocumentMoniker": "VehicleWeb\\Controllers\\VehiclePartsController.cs",
+              "ToolTip": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleWeb\\Controllers\\VehiclePartsController.cs",
+              "RelativeToolTip": "VehicleWeb\\Controllers\\VehiclePartsController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAHMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T11:51:43.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 118,
+              "Title": "20240707015407_nadvor2.cs",
+              "DocumentMoniker": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleReposiotry\\Migrations\\20240707015407_nadvor2.cs",
+              "RelativeDocumentMoniker": "VehicleReposiotry\\Migrations\\20240707015407_nadvor2.cs",
+              "ToolTip": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleReposiotry\\Migrations\\20240707015407_nadvor2.cs",
+              "RelativeToolTip": "VehicleReposiotry\\Migrations\\20240707015407_nadvor2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T01:54:08.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 119,
+              "Title": "20240707015153_nadvor.cs",
+              "DocumentMoniker": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleReposiotry\\Migrations\\20240707015153_nadvor.cs",
+              "RelativeDocumentMoniker": "VehicleReposiotry\\Migrations\\20240707015153_nadvor.cs",
+              "ToolTip": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleReposiotry\\Migrations\\20240707015153_nadvor.cs",
+              "RelativeToolTip": "VehicleReposiotry\\Migrations\\20240707015153_nadvor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T01:51:53.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleReposiotry\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "VehicleReposiotry\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleReposiotry\\ApplicationDbContext.cs",
+              "RelativeToolTip": "VehicleReposiotry\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T16:05:52.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleWeb\\Views\\VehicleParts\\Index.cshtml",
+              "RelativeDocumentMoniker": "VehicleWeb\\Views\\VehicleParts\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleWeb\\Views\\VehicleParts\\Index.cshtml",
+              "RelativeToolTip": "VehicleWeb\\Views\\VehicleParts\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-16T12:09:46.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 120,
+              "Title": "20240707014220_etlsas.cs",
+              "DocumentMoniker": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleReposiotry\\Migrations\\20240707014220_etlsas.cs",
+              "RelativeDocumentMoniker": "VehicleReposiotry\\Migrations\\20240707014220_etlsas.cs",
+              "ToolTip": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleReposiotry\\Migrations\\20240707014220_etlsas.cs",
+              "RelativeToolTip": "VehicleReposiotry\\Migrations\\20240707014220_etlsas.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T01:42:20.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 121,
+              "Title": "20240707013717_etls.cs",
+              "DocumentMoniker": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleReposiotry\\Migrations\\20240707013717_etls.cs",
+              "RelativeDocumentMoniker": "VehicleReposiotry\\Migrations\\20240707013717_etls.cs",
+              "ToolTip": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleReposiotry\\Migrations\\20240707013717_etls.cs",
+              "RelativeToolTip": "VehicleReposiotry\\Migrations\\20240707013717_etls.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAYwA8AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T01:37:18.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleWeb\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "VehicleWeb\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleWeb\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "VehicleWeb\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACcAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-13T16:15:35.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "OrdersAdmin.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleWeb\\Views\\Shopping\\OrdersAdmin.cshtml",
+              "RelativeDocumentMoniker": "VehicleWeb\\Views\\Shopping\\OrdersAdmin.cshtml",
+              "ToolTip": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleWeb\\Views\\Shopping\\OrdersAdmin.cshtml",
+              "RelativeToolTip": "VehicleWeb\\Views\\Shopping\\OrdersAdmin.cshtml",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAFAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-18T14:43:43.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ShoppingRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleServices\\Implementation\\ShoppingRepository.cs",
+              "RelativeDocumentMoniker": "VehicleServices\\Implementation\\ShoppingRepository.cs",
+              "ToolTip": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleServices\\Implementation\\ShoppingRepository.cs",
+              "RelativeToolTip": "VehicleServices\\Implementation\\ShoppingRepository.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAgwFwAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T13:28:35.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\Domain\\Domain.csproj",
+              "RelativeDocumentMoniker": "Domain\\Domain.csproj",
+              "ToolTip": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\Domain\\Domain.csproj",
+              "RelativeToolTip": "Domain\\Domain.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-13T16:02:25.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "VehicleParts.cs",
+              "DocumentMoniker": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\Domain\\VehicleParts.cs",
+              "RelativeDocumentMoniker": "Domain\\VehicleParts.cs",
+              "ToolTip": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\Domain\\VehicleParts.cs",
+              "RelativeToolTip": "Domain\\VehicleParts.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T11:33:16.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\Domain\\Order.cs",
+              "RelativeDocumentMoniker": "Domain\\Order.cs",
+              "ToolTip": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\Domain\\Order.cs",
+              "RelativeToolTip": "Domain\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T11:54:53.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "VehicleFormula.cs",
+              "DocumentMoniker": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\Domain\\VehicleFormula.cs",
+              "RelativeDocumentMoniker": "Domain\\VehicleFormula.cs",
+              "ToolTip": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\Domain\\VehicleFormula.cs",
+              "RelativeToolTip": "Domain\\VehicleFormula.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T15:56:23.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ShoppingCart.cs",
+              "DocumentMoniker": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\Domain\\ShoppingCart.cs",
+              "RelativeDocumentMoniker": "Domain\\ShoppingCart.cs",
+              "ToolTip": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\Domain\\ShoppingCart.cs",
+              "RelativeToolTip": "Domain\\ShoppingCart.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T12:38:42.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "VehicleApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\Domain\\Identity\\VehicleApplicationUser.cs",
+              "RelativeDocumentMoniker": "Domain\\Identity\\VehicleApplicationUser.cs",
+              "ToolTip": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\Domain\\Identity\\VehicleApplicationUser.cs",
+              "RelativeToolTip": "Domain\\Identity\\VehicleApplicationUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBAAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T16:25:28.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleWeb\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "VehicleWeb\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleWeb\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "VehicleWeb\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAHMAAAAAAAAAAAAwwH8AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-13T16:16:56.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleWeb\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "VehicleWeb\\Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleWeb\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "VehicleWeb\\Views\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AQIAADIAAAAAAAAAAAAqwEAAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-13T16:18:33.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "actionResult.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleWeb\\Views\\Shopping\\actionResult.cshtml",
+              "RelativeDocumentMoniker": "VehicleWeb\\Views\\Shopping\\actionResult.cshtml",
+              "ToolTip": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleWeb\\Views\\Shopping\\actionResult.cshtml",
+              "RelativeToolTip": "VehicleWeb\\Views\\Shopping\\actionResult.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-17T15:08:33.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleWeb\\Views\\Shopping\\Index.cshtml",
+              "RelativeDocumentMoniker": "VehicleWeb\\Views\\Shopping\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleWeb\\Views\\Shopping\\Index.cshtml",
+              "RelativeToolTip": "VehicleWeb\\Views\\Shopping\\Index.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAADAAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-17T13:09:24.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "GalleryFull.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleWeb\\Views\\Home\\GalleryFull.cshtml",
+              "RelativeDocumentMoniker": "VehicleWeb\\Views\\Home\\GalleryFull.cshtml",
+              "ToolTip": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleWeb\\Views\\Home\\GalleryFull.cshtml",
+              "RelativeToolTip": "VehicleWeb\\Views\\Home\\GalleryFull.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABYAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-22T14:54:57.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ShowOrders.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleWeb\\Views\\Shopping\\ShowOrders.cshtml",
+              "RelativeDocumentMoniker": "VehicleWeb\\Views\\Shopping\\ShowOrders.cshtml",
+              "ToolTip": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleWeb\\Views\\Shopping\\ShowOrders.cshtml",
+              "RelativeToolTip": "VehicleWeb\\Views\\Shopping\\ShowOrders.cshtml",
+              "ViewState": "AQIAACsAAAAAAAAAAAAYwDAAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-18T12:27:20.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleWeb\\Views\\VehicleParts\\Delete.cshtml",
+              "RelativeDocumentMoniker": "VehicleWeb\\Views\\VehicleParts\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleWeb\\Views\\VehicleParts\\Delete.cshtml",
+              "RelativeToolTip": "VehicleWeb\\Views\\VehicleParts\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-16T12:11:51.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleWeb\\Views\\VehicleParts\\Details.cshtml",
+              "RelativeDocumentMoniker": "VehicleWeb\\Views\\VehicleParts\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleWeb\\Views\\VehicleParts\\Details.cshtml",
+              "RelativeToolTip": "VehicleWeb\\Views\\VehicleParts\\Details.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAADwvzEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-16T12:11:40.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleWeb\\Views\\VehicleParts\\Edit.cshtml",
+              "RelativeDocumentMoniker": "VehicleWeb\\Views\\VehicleParts\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleWeb\\Views\\VehicleParts\\Edit.cshtml",
+              "RelativeToolTip": "VehicleWeb\\Views\\VehicleParts\\Edit.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACoAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-16T12:10:29.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleWeb\\Views\\VehicleParts\\Create.cshtml",
+              "RelativeDocumentMoniker": "VehicleWeb\\Views\\VehicleParts\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleWeb\\Views\\VehicleParts\\Create.cshtml",
+              "RelativeToolTip": "VehicleWeb\\Views\\VehicleParts\\Create.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACcAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-16T12:12:03.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "SetAdmin.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleWeb\\Views\\VehicleFormulas\\SetAdmin.cshtml",
+              "RelativeDocumentMoniker": "VehicleWeb\\Views\\VehicleFormulas\\SetAdmin.cshtml",
+              "ToolTip": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleWeb\\Views\\VehicleFormulas\\SetAdmin.cshtml",
+              "RelativeToolTip": "VehicleWeb\\Views\\VehicleFormulas\\SetAdmin.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-15T17:03:39.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleServices\\Implementation\\OrderService.cs",
+              "RelativeDocumentMoniker": "VehicleServices\\Implementation\\OrderService.cs",
+              "ToolTip": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleServices\\Implementation\\OrderService.cs",
+              "RelativeToolTip": "VehicleServices\\Implementation\\OrderService.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwB8AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T14:38:53.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "OrdersAdminDetails.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleWeb\\Views\\Shopping\\OrdersAdminDetails.cshtml",
+              "RelativeDocumentMoniker": "VehicleWeb\\Views\\Shopping\\OrdersAdminDetails.cshtml",
+              "ToolTip": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleWeb\\Views\\Shopping\\OrdersAdminDetails.cshtml",
+              "RelativeToolTip": "VehicleWeb\\Views\\Shopping\\OrdersAdminDetails.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABoAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-18T14:57:51.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "IOrderService.cs",
+              "DocumentMoniker": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleServices\\Interface\\IOrderService.cs",
+              "RelativeDocumentMoniker": "VehicleServices\\Interface\\IOrderService.cs",
+              "ToolTip": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleServices\\Interface\\IOrderService.cs",
+              "RelativeToolTip": "VehicleServices\\Interface\\IOrderService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T14:38:25.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleReposiotry\\Implementation\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "VehicleReposiotry\\Implementation\\OrderRepository.cs",
+              "ToolTip": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleReposiotry\\Implementation\\OrderRepository.cs",
+              "RelativeToolTip": "VehicleReposiotry\\Implementation\\OrderRepository.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAQwCIAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T14:33:18.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleReposiotry\\Implementation\\Repository.cs",
+              "RelativeDocumentMoniker": "VehicleReposiotry\\Implementation\\Repository.cs",
+              "ToolTip": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleReposiotry\\Implementation\\Repository.cs",
+              "RelativeToolTip": "VehicleReposiotry\\Implementation\\Repository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T16:00:57.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "IOrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleReposiotry\\Interface\\IOrderRepository.cs",
+              "RelativeDocumentMoniker": "VehicleReposiotry\\Interface\\IOrderRepository.cs",
+              "ToolTip": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleReposiotry\\Interface\\IOrderRepository.cs",
+              "RelativeToolTip": "VehicleReposiotry\\Interface\\IOrderRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T14:32:54.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 116,
+              "Title": "20240622133707_done_order.cs",
+              "DocumentMoniker": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleReposiotry\\Migrations\\20240622133707_done_order.cs",
+              "RelativeDocumentMoniker": "VehicleReposiotry\\Migrations\\20240622133707_done_order.cs",
+              "ToolTip": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleReposiotry\\Migrations\\20240622133707_done_order.cs",
+              "RelativeToolTip": "VehicleReposiotry\\Migrations\\20240622133707_done_order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T13:37:07.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Proba.cs",
+              "DocumentMoniker": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleWeb\\Controllers\\Proba.cs",
+              "RelativeDocumentMoniker": "VehicleWeb\\Controllers\\Proba.cs",
+              "ToolTip": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleWeb\\Controllers\\Proba.cs",
+              "RelativeToolTip": "VehicleWeb\\Controllers\\Proba.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAUwCEAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T12:08:21.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 117,
+              "Title": "20240622133511_formula_parts.cs",
+              "DocumentMoniker": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleReposiotry\\Migrations\\20240622133511_formula_parts.cs",
+              "RelativeDocumentMoniker": "VehicleReposiotry\\Migrations\\20240622133511_formula_parts.cs",
+              "ToolTip": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleReposiotry\\Migrations\\20240622133511_formula_parts.cs",
+              "RelativeToolTip": "VehicleReposiotry\\Migrations\\20240622133511_formula_parts.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T13:35:12.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleWeb\\Views\\VehicleFormulas\\Index.cshtml",
+              "RelativeDocumentMoniker": "VehicleWeb\\Views\\VehicleFormulas\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleWeb\\Views\\VehicleFormulas\\Index.cshtml",
+              "RelativeToolTip": "VehicleWeb\\Views\\VehicleFormulas\\Index.cshtml",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAAEwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-14T21:45:52.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Users.js",
+              "DocumentMoniker": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleWeb\\wwwroot\\js\\Users.js",
+              "RelativeDocumentMoniker": "VehicleWeb\\wwwroot\\js\\Users.js",
+              "ToolTip": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleWeb\\wwwroot\\js\\Users.js",
+              "RelativeToolTip": "VehicleWeb\\wwwroot\\js\\Users.js",
+              "ViewState": "AQIAAAwAAAAAAAAAAAA5wAkAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-06-22T12:32:11.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleWeb\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "VehicleWeb\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleWeb\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "VehicleWeb\\wwwroot\\js\\site.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-06-22T12:32:14.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "UsersDto.cs",
+              "DocumentMoniker": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\Domain\\DTO\\UsersDto.cs",
+              "RelativeDocumentMoniker": "Domain\\DTO\\UsersDto.cs",
+              "ToolTip": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\Domain\\DTO\\UsersDto.cs",
+              "RelativeToolTip": "Domain\\DTO\\UsersDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T17:00:53.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "product2.js",
+              "DocumentMoniker": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleWeb\\wwwroot\\js\\product2.js",
+              "RelativeDocumentMoniker": "VehicleWeb\\wwwroot\\js\\product2.js",
+              "ToolTip": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleWeb\\wwwroot\\js\\product2.js",
+              "RelativeToolTip": "VehicleWeb\\wwwroot\\js\\product2.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-06-16T15:02:14.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Order.js",
+              "DocumentMoniker": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleWeb\\wwwroot\\js\\Order.js",
+              "RelativeDocumentMoniker": "VehicleWeb\\wwwroot\\js\\Order.js",
+              "ToolTip": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleWeb\\wwwroot\\js\\Order.js",
+              "RelativeToolTip": "VehicleWeb\\wwwroot\\js\\Order.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-06-21T15:47:03.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "product.js",
+              "DocumentMoniker": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleWeb\\wwwroot\\js\\product.js",
+              "RelativeDocumentMoniker": "VehicleWeb\\wwwroot\\js\\product.js",
+              "ToolTip": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleWeb\\wwwroot\\js\\product.js",
+              "RelativeToolTip": "VehicleWeb\\wwwroot\\js\\product.js",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAkwCYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-06-16T14:09:01.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "Gallery.js",
+              "DocumentMoniker": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleWeb\\wwwroot\\js\\Gallery.js",
+              "RelativeDocumentMoniker": "VehicleWeb\\wwwroot\\js\\Gallery.js",
+              "ToolTip": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleWeb\\wwwroot\\js\\Gallery.js",
+              "RelativeToolTip": "VehicleWeb\\wwwroot\\js\\Gallery.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-06-21T15:47:06.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleWeb\\Views\\Proba\\Index.cshtml",
+              "RelativeDocumentMoniker": "VehicleWeb\\Views\\Proba\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleWeb\\Views\\Proba\\Index.cshtml",
+              "RelativeToolTip": "VehicleWeb\\Views\\Proba\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-14T12:11:17.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "UserShoppingCart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleWeb\\Views\\Shopping\\UserShoppingCart.cshtml",
+              "RelativeDocumentMoniker": "VehicleWeb\\Views\\Shopping\\UserShoppingCart.cshtml",
+              "ToolTip": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleWeb\\Views\\Shopping\\UserShoppingCart.cshtml",
+              "RelativeToolTip": "VehicleWeb\\Views\\Shopping\\UserShoppingCart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-18T10:59:27.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleWeb\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "VehicleWeb\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleWeb\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "VehicleWeb\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T16:12:23.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "NotActive.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleWeb\\Views\\Proba\\NotActive.cshtml",
+              "RelativeDocumentMoniker": "VehicleWeb\\Views\\Proba\\NotActive.cshtml",
+              "ToolTip": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleWeb\\Views\\Proba\\NotActive.cshtml",
+              "RelativeToolTip": "VehicleWeb\\Views\\Proba\\NotActive.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-14T12:15:52.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleWeb\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "VehicleWeb\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleWeb\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "VehicleWeb\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-13T16:15:37.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "Failed.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleWeb\\Views\\Proba\\Failed.cshtml",
+              "RelativeDocumentMoniker": "VehicleWeb\\Views\\Proba\\Failed.cshtml",
+              "ToolTip": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleWeb\\Views\\Proba\\Failed.cshtml",
+              "RelativeToolTip": "VehicleWeb\\Views\\Proba\\Failed.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-21T14:45:41.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "ShoppingVehicleTypeDto.cs",
+              "DocumentMoniker": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\Domain\\DTO\\ShoppingVehicleTypeDto.cs",
+              "RelativeDocumentMoniker": "Domain\\DTO\\ShoppingVehicleTypeDto.cs",
+              "ToolTip": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\Domain\\DTO\\ShoppingVehicleTypeDto.cs",
+              "RelativeToolTip": "Domain\\DTO\\ShoppingVehicleTypeDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T14:23:54.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "ShoppingVehicleFormulaTypeDto.cs",
+              "DocumentMoniker": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\Domain\\DTO\\ShoppingVehicleFormulaTypeDto.cs",
+              "RelativeDocumentMoniker": "Domain\\DTO\\ShoppingVehicleFormulaTypeDto.cs",
+              "ToolTip": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\Domain\\DTO\\ShoppingVehicleFormulaTypeDto.cs",
+              "RelativeToolTip": "Domain\\DTO\\ShoppingVehicleFormulaTypeDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T12:58:26.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "20240620160744_smtp.cs",
+              "DocumentMoniker": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleReposiotry\\Migrations\\20240620160744_smtp.cs",
+              "RelativeDocumentMoniker": "VehicleReposiotry\\Migrations\\20240620160744_smtp.cs",
+              "ToolTip": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleReposiotry\\Migrations\\20240620160744_smtp.cs",
+              "RelativeToolTip": "VehicleReposiotry\\Migrations\\20240620160744_smtp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T16:07:45.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "EmailMessage.cs",
+              "DocumentMoniker": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\Domain\\EmailMessage.cs",
+              "RelativeDocumentMoniker": "Domain\\EmailMessage.cs",
+              "ToolTip": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\Domain\\EmailMessage.cs",
+              "RelativeToolTip": "Domain\\EmailMessage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T15:56:19.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "StripeSettings.cs",
+              "DocumentMoniker": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\Domain\\StripeSettings.cs",
+              "RelativeDocumentMoniker": "Domain\\StripeSettings.cs",
+              "ToolTip": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\Domain\\StripeSettings.cs",
+              "RelativeToolTip": "Domain\\StripeSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T15:22:41.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "OrderDto.cs",
+              "DocumentMoniker": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\Domain\\DTO\\OrderDto.cs",
+              "RelativeDocumentMoniker": "Domain\\DTO\\OrderDto.cs",
+              "ToolTip": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\Domain\\DTO\\OrderDto.cs",
+              "RelativeToolTip": "Domain\\DTO\\OrderDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T12:23:04.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "IShopping.cs",
+              "DocumentMoniker": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleServices\\Interface\\IShopping.cs",
+              "RelativeDocumentMoniker": "VehicleServices\\Interface\\IShopping.cs",
+              "ToolTip": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleServices\\Interface\\IShopping.cs",
+              "RelativeToolTip": "VehicleServices\\Interface\\IShopping.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T13:00:24.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 113,
+              "Title": "20240618121221_getShoppingCardForProducts2.cs",
+              "DocumentMoniker": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleReposiotry\\Migrations\\20240618121221_getShoppingCardForProducts2.cs",
+              "RelativeDocumentMoniker": "VehicleReposiotry\\Migrations\\20240618121221_getShoppingCardForProducts2.cs",
+              "ToolTip": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleReposiotry\\Migrations\\20240618121221_getShoppingCardForProducts2.cs",
+              "RelativeToolTip": "VehicleReposiotry\\Migrations\\20240618121221_getShoppingCardForProducts2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T12:12:21.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 114,
+              "Title": "20240618121137_getShoppingCardForProducts.cs",
+              "DocumentMoniker": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleReposiotry\\Migrations\\20240618121137_getShoppingCardForProducts.cs",
+              "RelativeDocumentMoniker": "VehicleReposiotry\\Migrations\\20240618121137_getShoppingCardForProducts.cs",
+              "ToolTip": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleReposiotry\\Migrations\\20240618121137_getShoppingCardForProducts.cs",
+              "RelativeToolTip": "VehicleReposiotry\\Migrations\\20240618121137_getShoppingCardForProducts.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T12:11:38.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 115,
+              "Title": "20240618120116_getShoppingCard.cs",
+              "DocumentMoniker": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleReposiotry\\Migrations\\20240618120116_getShoppingCard.cs",
+              "RelativeDocumentMoniker": "VehicleReposiotry\\Migrations\\20240618120116_getShoppingCard.cs",
+              "ToolTip": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleReposiotry\\Migrations\\20240618120116_getShoppingCard.cs",
+              "RelativeToolTip": "VehicleReposiotry\\Migrations\\20240618120116_getShoppingCard.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T12:01:16.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "UserShoppingCartDto.cs",
+              "DocumentMoniker": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\Domain\\DTO\\UserShoppingCartDto.cs",
+              "RelativeDocumentMoniker": "Domain\\DTO\\UserShoppingCartDto.cs",
+              "ToolTip": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\Domain\\DTO\\UserShoppingCartDto.cs",
+              "RelativeToolTip": "Domain\\DTO\\UserShoppingCartDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T10:57:08.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "VehiclePartsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleServices\\Implementation\\VehiclePartsRepository.cs",
+              "RelativeDocumentMoniker": "VehicleServices\\Implementation\\VehiclePartsRepository.cs",
+              "ToolTip": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleServices\\Implementation\\VehiclePartsRepository.cs",
+              "RelativeToolTip": "VehicleServices\\Implementation\\VehiclePartsRepository.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAA0AAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T11:47:34.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 111,
+              "Title": "20240617135343_shoppingCart_allow.cs",
+              "DocumentMoniker": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleReposiotry\\Migrations\\20240617135343_shoppingCart_allow.cs",
+              "RelativeDocumentMoniker": "VehicleReposiotry\\Migrations\\20240617135343_shoppingCart_allow.cs",
+              "ToolTip": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleReposiotry\\Migrations\\20240617135343_shoppingCart_allow.cs",
+              "RelativeToolTip": "VehicleReposiotry\\Migrations\\20240617135343_shoppingCart_allow.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T13:53:43.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "RoleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleServices\\Implementation\\RoleRepository.cs",
+              "RelativeDocumentMoniker": "VehicleServices\\Implementation\\RoleRepository.cs",
+              "ToolTip": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleServices\\Implementation\\RoleRepository.cs",
+              "RelativeToolTip": "VehicleServices\\Implementation\\RoleRepository.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABUAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T12:03:23.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleWeb\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "VehicleWeb\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleWeb\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "VehicleWeb\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-13T16:59:34.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleWeb\\Views\\VehicleFormulas\\Create.cshtml",
+              "RelativeDocumentMoniker": "VehicleWeb\\Views\\VehicleFormulas\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleWeb\\Views\\VehicleFormulas\\Create.cshtml",
+              "RelativeToolTip": "VehicleWeb\\Views\\VehicleFormulas\\Create.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-14T21:47:49.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleWeb\\Views\\VehicleFormulas\\Details.cshtml",
+              "RelativeDocumentMoniker": "VehicleWeb\\Views\\VehicleFormulas\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleWeb\\Views\\VehicleFormulas\\Details.cshtml",
+              "RelativeToolTip": "VehicleWeb\\Views\\VehicleFormulas\\Details.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAADAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-14T21:47:35.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "IVehicleFormula.cs",
+              "DocumentMoniker": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleServices\\Interface\\IVehicleFormula.cs",
+              "RelativeDocumentMoniker": "VehicleServices\\Interface\\IVehicleFormula.cs",
+              "ToolTip": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleServices\\Interface\\IVehicleFormula.cs",
+              "RelativeToolTip": "VehicleServices\\Interface\\IVehicleFormula.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T16:08:55.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 112,
+              "Title": "20240617125520_shoppingCart.cs",
+              "DocumentMoniker": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleReposiotry\\Migrations\\20240617125520_shoppingCart.cs",
+              "RelativeDocumentMoniker": "VehicleReposiotry\\Migrations\\20240617125520_shoppingCart.cs",
+              "ToolTip": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleReposiotry\\Migrations\\20240617125520_shoppingCart.cs",
+              "RelativeToolTip": "VehicleReposiotry\\Migrations\\20240617125520_shoppingCart.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T12:55:20.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "HomePageDto.cs",
+              "DocumentMoniker": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\Domain\\DTO\\HomePageDto.cs",
+              "RelativeDocumentMoniker": "Domain\\DTO\\HomePageDto.cs",
+              "ToolTip": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\Domain\\DTO\\HomePageDto.cs",
+              "RelativeToolTip": "Domain\\DTO\\HomePageDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T17:32:32.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleReposiotry\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "VehicleReposiotry\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleReposiotry\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "VehicleReposiotry\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T16:50:04.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleWeb\\Views\\VehicleFormulas\\Delete.cshtml",
+              "RelativeDocumentMoniker": "VehicleWeb\\Views\\VehicleFormulas\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleWeb\\Views\\VehicleFormulas\\Delete.cshtml",
+              "RelativeToolTip": "VehicleWeb\\Views\\VehicleFormulas\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-14T21:47:42.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleWeb\\Views\\VehicleFormulas\\Edit.cshtml",
+              "RelativeDocumentMoniker": "VehicleWeb\\Views\\VehicleFormulas\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleWeb\\Views\\VehicleFormulas\\Edit.cshtml",
+              "RelativeToolTip": "VehicleWeb\\Views\\VehicleFormulas\\Edit.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACkAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-14T21:47:27.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 109,
+              "Title": "20240616123237_parts_image.cs",
+              "DocumentMoniker": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleReposiotry\\Migrations\\20240616123237_parts_image.cs",
+              "RelativeDocumentMoniker": "VehicleReposiotry\\Migrations\\20240616123237_parts_image.cs",
+              "ToolTip": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleReposiotry\\Migrations\\20240616123237_parts_image.cs",
+              "RelativeToolTip": "VehicleReposiotry\\Migrations\\20240616123237_parts_image.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T12:32:37.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "IVehicleParts.cs",
+              "DocumentMoniker": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleServices\\Interface\\IVehicleParts.cs",
+              "RelativeDocumentMoniker": "VehicleServices\\Interface\\IVehicleParts.cs",
+              "ToolTip": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleServices\\Interface\\IVehicleParts.cs",
+              "RelativeToolTip": "VehicleServices\\Interface\\IVehicleParts.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T11:41:18.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 110,
+              "Title": "20240616113509_parts.cs",
+              "DocumentMoniker": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleReposiotry\\Migrations\\20240616113509_parts.cs",
+              "RelativeDocumentMoniker": "VehicleReposiotry\\Migrations\\20240616113509_parts.cs",
+              "ToolTip": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleReposiotry\\Migrations\\20240616113509_parts.cs",
+              "RelativeToolTip": "VehicleReposiotry\\Migrations\\20240616113509_parts.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T11:35:09.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "IRoles.cs",
+              "DocumentMoniker": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleServices\\Interface\\IRoles.cs",
+              "RelativeDocumentMoniker": "VehicleServices\\Interface\\IRoles.cs",
+              "ToolTip": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleServices\\Interface\\IRoles.cs",
+              "RelativeToolTip": "VehicleServices\\Interface\\IRoles.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T12:02:36.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "20240614162007_vehicle_formula.cs",
+              "DocumentMoniker": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleReposiotry\\Migrations\\20240614162007_vehicle_formula.cs",
+              "RelativeDocumentMoniker": "VehicleReposiotry\\Migrations\\20240614162007_vehicle_formula.cs",
+              "ToolTip": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleReposiotry\\Migrations\\20240614162007_vehicle_formula.cs",
+              "RelativeToolTip": "VehicleReposiotry\\Migrations\\20240614162007_vehicle_formula.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T16:20:07.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\Domain\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Domain\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\Domain\\BaseEntity.cs",
+              "RelativeToolTip": "Domain\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T16:03:58.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 105,
+              "Title": "20240614151809_why.cs",
+              "DocumentMoniker": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleReposiotry\\Migrations\\20240614151809_why.cs",
+              "RelativeDocumentMoniker": "VehicleReposiotry\\Migrations\\20240614151809_why.cs",
+              "ToolTip": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleReposiotry\\Migrations\\20240614151809_why.cs",
+              "RelativeToolTip": "VehicleReposiotry\\Migrations\\20240614151809_why.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T15:18:10.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 106,
+              "Title": "20240614150115_sqlLite2.cs",
+              "DocumentMoniker": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleReposiotry\\Migrations\\20240614150115_sqlLite2.cs",
+              "RelativeDocumentMoniker": "VehicleReposiotry\\Migrations\\20240614150115_sqlLite2.cs",
+              "ToolTip": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleReposiotry\\Migrations\\20240614150115_sqlLite2.cs",
+              "RelativeToolTip": "VehicleReposiotry\\Migrations\\20240614150115_sqlLite2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T15:01:15.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 107,
+              "Title": "20240614145853_sqlLite.cs",
+              "DocumentMoniker": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleReposiotry\\Migrations\\20240614145853_sqlLite.cs",
+              "RelativeDocumentMoniker": "VehicleReposiotry\\Migrations\\20240614145853_sqlLite.cs",
+              "ToolTip": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleReposiotry\\Migrations\\20240614145853_sqlLite.cs",
+              "RelativeToolTip": "VehicleReposiotry\\Migrations\\20240614145853_sqlLite.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T14:58:53.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleWeb\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "VehicleWeb\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleWeb\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "VehicleWeb\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-13T16:16:58.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "VehicleServices.csproj",
+              "DocumentMoniker": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleServices\\VehicleServices.csproj",
+              "RelativeDocumentMoniker": "VehicleServices\\VehicleServices.csproj",
+              "ToolTip": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleServices\\VehicleServices.csproj",
+              "RelativeToolTip": "VehicleServices\\VehicleServices.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-13T16:01:53.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "dbo.AspNetUsers [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/aspnet_VehicleWeb2_b96503b0_8be7_445c_a7db_166c54005147/True/SqlTable/dbo.AspNetUsers.sql",
+              "ToolTip": "dbo.AspNetUsers [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-06-14T11:49:52.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\Domain\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Domain\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\Domain\\ErrorViewModel.cs",
+              "RelativeToolTip": "Domain\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T16:00:06.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "dbo.AspNetRoles [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/aspnet_VehicleWeb2_b96503b0_8be7_445c_a7db_166c54005147/True/SqlTable/dbo.AspNetRoles.sql",
+              "ToolTip": "dbo.AspNetRoles [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-06-14T11:52:01.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 108,
+              "Title": "20240614114709_role.cs",
+              "DocumentMoniker": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleReposiotry\\Migrations\\20240614114709_role.cs",
+              "RelativeDocumentMoniker": "VehicleReposiotry\\Migrations\\20240614114709_role.cs",
+              "ToolTip": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleReposiotry\\Migrations\\20240614114709_role.cs",
+              "RelativeToolTip": "VehicleReposiotry\\Migrations\\20240614114709_role.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T11:47:09.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 93,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleWeb\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "VehicleWeb\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ToolTip": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleWeb\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeToolTip": "VehicleWeb\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAADgvxgAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T17:22:28.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 94,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleWeb\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "VehicleWeb\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleWeb\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "VehicleWeb\\ScaffoldingReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-06-13T16:59:23.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 95,
+              "Title": "20240613164945_init343.cs",
+              "DocumentMoniker": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleReposiotry\\Migrations\\20240613164945_init343.cs",
+              "RelativeDocumentMoniker": "VehicleReposiotry\\Migrations\\20240613164945_init343.cs",
+              "ToolTip": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleReposiotry\\Migrations\\20240613164945_init343.cs",
+              "RelativeToolTip": "VehicleReposiotry\\Migrations\\20240613164945_init343.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T16:49:45.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 97,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleWeb\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "VehicleWeb\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleWeb\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "VehicleWeb\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-13T16:15:40.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 98,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleWeb\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "VehicleWeb\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleWeb\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "VehicleWeb\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-13T16:15:39.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 96,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleWeb\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "VehicleWeb\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleWeb\\appsettings.Development.json",
+              "RelativeToolTip": "VehicleWeb\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-13T16:15:49.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 99,
+              "Title": "20240613163831_init.cs",
+              "DocumentMoniker": "C:\\Users\\Nikola\\Desktop\\Kolokviumska\\VehicleCreating\\VehicleReposiotry\\Migrations\\20240613163831_init.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Kolokviumska\\VehicleCreating\\VehicleReposiotry\\Migrations\\20240613163831_init.cs",
+              "ToolTip": "C:\\Users\\Nikola\\Desktop\\Kolokviumska\\VehicleCreating\\VehicleReposiotry\\Migrations\\20240613163831_init.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Kolokviumska\\VehicleCreating\\VehicleReposiotry\\Migrations\\20240613163831_init.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T16:38:31.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 100,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleWeb\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "VehicleWeb\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleWeb\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "VehicleWeb\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-13T16:14:20.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 101,
+              "Title": "serviceDependencies.json",
+              "DocumentMoniker": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleWeb\\Properties\\serviceDependencies.json",
+              "RelativeDocumentMoniker": "VehicleWeb\\Properties\\serviceDependencies.json",
+              "ToolTip": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleWeb\\Properties\\serviceDependencies.json",
+              "RelativeToolTip": "VehicleWeb\\Properties\\serviceDependencies.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-13T16:18:09.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 102,
+              "Title": "serviceDependencies.local.json",
+              "DocumentMoniker": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleWeb\\Properties\\serviceDependencies.local.json",
+              "RelativeDocumentMoniker": "VehicleWeb\\Properties\\serviceDependencies.local.json",
+              "ToolTip": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleWeb\\Properties\\serviceDependencies.local.json",
+              "RelativeToolTip": "VehicleWeb\\Properties\\serviceDependencies.local.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-13T16:18:07.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 103,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleWeb\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "VehicleWeb\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleWeb\\Properties\\launchSettings.json",
+              "RelativeToolTip": "VehicleWeb\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-13T16:18:05.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 104,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleWeb\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "VehicleWeb\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Nikola\\Desktop\\private rep\\FINKI\\IS\\Project\\VehicleCreating - Copy\\VehicleWeb\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "VehicleWeb\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-13T16:15:44.193Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

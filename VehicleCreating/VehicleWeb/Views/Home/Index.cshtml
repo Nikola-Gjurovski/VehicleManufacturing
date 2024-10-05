@@ -1,0 +1,147 @@
+﻿@model Domain.DTO.HomePageDto
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<style>
+    #picture {
+        background-image: url("https://www.automation.com/getmedia/d5a7dfa8-80bc-4529-9adf-7275f6ccda10/Stock-car");
+        background-position: center;
+        height: 600px;
+        background-size: cover;
+    }
+
+    hr {
+        width: 40px;
+        /*margin-left: 300px;*/
+    }
+    #intro{
+        margin-left:100px;
+        
+    }
+    #intro-div{
+        margin-bottom: 200px;
+        margin-top:100px;
+    }
+    #inside{
+        margin-top:80px
+    }
+    #explanation{
+        background-color:#F5F5DC; 
+       
+    }
+    
+</style>
+@if (Model.User!=null && Model.User.IsAdmin == true)
+{
+    <a class="btn btn-success" asp-area="" asp-controller="VehicleFormulas" asp-action="Index">Admin Panel</a>
+}
+
+
+<div id="picture" class="mb-3  ">
+    <div class="d-flex justify-content-center mt-5">
+        <div class=" text-center mb-3" id="inside">
+            <div class="text-center mb-3">
+               
+                <h1 class="text-black text-center">Welcome to Dynamics Manufacturer</h1>
+                <img src="https://w7.pngwing.com/pngs/235/916/png-transparent-maintenance-logo-car-repair-logo-cartoon.png" alt="VehicleWeb Logo" style="height: 80px; width: 100px;"/>
+            </div>
+         
+          <div class="text-center  mb-3">
+             <h3 class="text-white">HONEST,Quality Work At AFFORDABLE PRICES</h3>
+         </div>
+         <div>
+            <a class="btn btn-success" asp-area="" asp-controller="Shopping" asp-action="Index">ORDER NOW</a>
+          </div>
+               
+               
+         </div>
+         
+           
+
+
+       
+    </div>
+</div>
+
+
+<div class="container mt-5">
+    <div class="text-center w-75 mb-5" style="margin-left: 160px">
+        <h2>OUR SERVICES</h2>
+        <div class="d-flex justify-content-center">
+            <hr>
+        </div>
+        <p>
+           Since our inception in 1990, Dynamics Manufacturer has been at the forefront of the automotive industry, creating state-of-the-art vehicles that blend innovation with reliability. Our dedicated team of professionals brings passion and expertise to every project, ensuring that each vehicle meets the highest standards of quality and performance. We pride ourselves on our commitment to excellence and our ability to deliver products just in time, catering to the evolving needs of our customers. At Dynamics Manufacturer, we don't just build vehicles; we drive the future of transportation.
+
+
+
+
+
+
+
+        </p>
+    </div>
+    <div class="text-center w-75 mb-5" style="margin-left: 160px">
+        <h2>OUR GALERY</h2>
+        <div class="d-flex justify-content-center">
+            <hr>
+        </div>
+        <p>
+           At Dynamics Manufacturer, we believe in empowering our customers to design their dream vehicles. Through our intuitive web page, you can choose every part and feature for your vehicle, ensuring it perfectly aligns with your preferences and needs. Once you've made your selections, our skilled team will meticulously craft your vehicle based on your choices. Experience the thrill of driving a vehicle tailored specifically to you, combining our commitment to quality with your unique vision.
+        </p>
+    </div>
+    <div class="d-flex justify-content-evenly mb-4" style="margin-left: 40px">
+        <div style="margin-top: -8px">
+            <img width="200px" height="330px" src="https://www.vltlogistics.co.uk/wp-content/uploads/2023/06/warehousing-hero.jpg">
+        </div>
+        <div>
+            <img width="200px" height="300px" src="https://tuningpro.co/wp-content/uploads/2022/02/Mercedes-M112-Engine.jpeg">
+        </div>
+        <div>
+            <img width="200px" height="300px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3Ox89nPnqUTqIhyXqy3VQLXzjsmo6F7sHaw&usqp=CAU">
+        </div>
+
+    </div>
+    <div class="row mb-5">
+        <div class="d-flex align-items-center justify-content-center">
+             <a class="btn btn-success" asp-area="" asp-controller="Home" asp-action="GalleryFull">See all vehicles parts</a>
+        </div>
+    </div>
+
+    <div id="explanation" class="d-flex justify-content-center mb-5">
+        <div class=" text-center mb-3" id="inside">
+            <div class="text-center mb-3">
+               <img src="https://w7.pngwing.com/pngs/235/916/png-transparent-maintenance-logo-car-repair-logo-cartoon.png" alt="VehicleWeb Logo" style="height: 80px; width: 100px;"/>
+                <h6 class="text-black text-center">At Dynamics Manufacturer, we offer a range of vehicle types to suit every need and preference. The starting price for each type of vehicle is $10,000. This base price covers the essential framework of your chosen vehicle. From there, the final cost is determined by the specific parts and quantities you select through our web page. For each vehicle type, we've detailed the required quantities of each part needed for manufacturing, ensuring you have a clear understanding of how your choices influence the final product. Design your perfect vehicle with transparency and confidence, knowing exactly what goes into its creation.</h6>
+                <a class="btn btn-success" asp-area="" asp-controller="Shopping" asp-action="Index">ORDER NOW</a>
+            </div>
+            </div>
+    </div>
+    @for (int i = 0; i < Model.VehicleFormula.Count; i++)
+    {
+        var item = Model.VehicleFormula[i];
+        if (i % 4 == 0)
+        {
+            @:<div class="row mb-4">
+        }
+        <div class="col-md-3 mb-4">
+            <div class="card" style="width: 18rem;height:30rem">
+                <img class="card-img-top" src="@item.image" alt="Card image cap">
+                <div class="card-body">
+                    <h5 class="card-title">@item.Name</h5>
+                    <h6 class="card-text">Numbers of chassis:@item.chassis</h6>
+                    <h6>Numbers of engines: @item.engines</h6>
+                    <h6>Numbers of doors: @item.doors</h6>
+                    <h6>Numbers of wheels: @item.wheels</h6>
+                </div>
+            </div>
+        </div>
+        if (i % 4 == 3 || i == Model.VehicleFormula.Count - 1)
+        {
+            @:</div>
+        }
+    }
+
+    @* </div> *@
+</div>

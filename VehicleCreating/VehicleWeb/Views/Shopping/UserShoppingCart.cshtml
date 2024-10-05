@@ -1,0 +1,107 @@
+﻿@using Domain
+@using Microsoft.Extensions.Options
+@model Domain.DTO.UserShoppingCartDto
+@inject IOptions<StripeSettings> Stripe
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<style>
+    #information{
+        background-color: #F5F5DC;
+    }
+</style>
+<h1>Your shopping cart</h1>
+
+<div class="container">
+    <div class="row-4 mb-5">
+       
+       
+
+    
+    @if (Model.ShoppingCart!=null && Model.ShoppingCart.Price != 0)
+    {
+        <form asp-controller="Shopping" asp-action="PayOrder" method="post">
+            <article>
+                <script src="https://checkout.stripe.com/checkout.js"
+                        class="stripe-button"
+                        data-key="@Stripe.Value.PublishableKey"
+                        data-locale="auto"
+                        data-description="EShop Application Payment"
+                        data-amount="@(Model.ShoppingCart.Price * 100)"
+                        data-label="Pay $@Model.ShoppingCart.Price">
+                </script>
+            </article>
+        </form>
+            <a asp-controller="Shopping" asp-action="DeleteShoppingCard" class="btn btn-danger">Delete now</a>
+    }
+       
+    </div>
+    @if (Model.ShoppingCart == null) { <p>Empty card</p>}
+    else{
+
+    <div class="d-flex justify-content-between" id="information">
+        <div>
+        <p>Company name:@Model.ShoppingCart.CompanyName</p>
+        </div>
+        <div>
+        <p>Vehicle name:@Model.ShoppingCart.VehicleName</p>
+        </div>
+        <div>
+        <p>Vehicle color:@Model.ShoppingCart.VehicleColor</p>
+        </div>
+    </div>
+    <div class="row m-4">
+        <table class="table">
+            <thead>
+                <tr>
+                    <th scope="col">
+                        #
+                    </th>
+                    <th scope="col">Product name</th>
+                    <th scope="col">Product manufacturer</th>
+                    <th scope="col">Product price</th>
+                    <th scope="col">Product description</th>
+                </tr>
+            </thead>
+            <tbody>
+                @if (Model.ShoppingCart.ProductShoppingCarts.Count == 0)
+                {
+                    <tr>
+                        <td colspan="5">No active Products</td>
+                    </tr>
+                }
+                else
+                {
+                    @for (int i = 0; i < Model.ShoppingCart.ProductShoppingCarts.Count; i++)
+                    {
+                        var item = Model.ShoppingCart.ProductShoppingCarts.ElementAt(i);
+                        <tr>
+                            <th scope="row">@(i + 1)</th>
+                            <td>@item.Name</td>
+                            <td>@item.Manufacturer</td>
+                            <td>@item.Price</td>
+                            <td>@item.Description</td>
+                         
+                        </tr>
+                    }
+                }
+            </tbody>
+            <tfoot>
+                <tr>
+                    <th scope="col">
+                        ToatlPrice
+                    </th>
+                    <th scope="col"></th>
+                    <th scope="col"></th>
+                    <th scope="col"></th>
+                    <th scope="col">$@Model.ShoppingCart.Price</th>
+                </tr>
+            </tfoot>
+        </table>
+    </div>
+    }
+
+</div>
+

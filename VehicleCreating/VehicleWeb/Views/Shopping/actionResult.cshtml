@@ -1,0 +1,161 @@
+﻿@model Domain.DTO.ShoppingVehicleTypeDto
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<style>
+    #explanation {
+        background-color: #F5F5DC;
+    }
+
+    #inside {
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+</style>
+@if(Model.chassis.Count==0 || Model.doors.Count==0 || Model.wheels.Count==0 || Model.engines.Count == 0)
+{
+    <h1>Sorry we don't have any parts for yout vehicle type</h1>
+}
+else{
+<div class="container mt-5">
+    <div id="explanation" class="d-flex justify-content-center mb-5">
+        <div class=" d-flex justify-content-center mb-3" id="inside">
+            <div class="text-center mb-3">
+                <img src="https://w7.pngwing.com/pngs/235/916/png-transparent-maintenance-logo-car-repair-logo-cartoon.png" alt="VehicleWeb Logo" style="height: 80px; width: 100px;" />
+                <h6 class="text-black text-center">Give us some basic informations about your vehicle.</h6>
+            <form method="post" asp-action="actionResult">
+    
+
+                <div class="form-group">
+                    <label asp-for="ChassisId" class="control-label">Choose chassis</label>
+                    @Html.DropDownListFor(x => Model.ChassisId, new SelectList(Model.chassis, "Id", "Name"), new { @class = "form-control" })
+                    <span asp-validation-for="ChassisId" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="EngineId" class="control-label">Choose engine</label>
+                    @Html.DropDownListFor(x => Model.EngineId, new SelectList(Model.engines, "Id", "Name"), new { @class = "form-control" })
+                    <span asp-validation-for="EngineId" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="DoorId" class="control-label">Choose door</label>
+                    @Html.DropDownListFor(x => Model.DoorId, new SelectList(Model.doors, "Id", "Name"), new { @class = "form-control" })
+                    <span asp-validation-for="DoorId" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="WheelsId" class="control-label">Choose wheel</label>
+                    @Html.DropDownListFor(x => Model.WheelsId, new SelectList(Model.wheels, "Id", "Name"), new { @class = "form-control" })
+                    <span asp-validation-for="WheelsId" class="text-danger"></span>
+                </div>
+    
+                <div class="form-group">
+                    <input type="submit" class="btn btn-primary" />
+                </div>
+            </form>
+        </div>
+        </div>
+        </div>
+        <h1>Chassis for your vehicle</h1>
+        @for (int i = 0; i < Model.chassis.Count; i++)
+    {
+        var item = Model.chassis[i];
+        if (i % 4 == 0)
+        {
+            @:<div class="row mb-4">
+        }
+        <div class="col-md-3 mb-4">
+            <div class="card" style="width: 18rem;height:30rem">
+                <img class="card-img-top" src="@item.image" alt="Card image cap">
+                <div class="card-body">
+                    <h5 class="card-title">@item.Name</h5>
+                    <h6 class="card-text">Manufacturer:@item.Manufacturer</h6>
+                    <h6>Description: @item.Description</h6>
+                    <h6>Price: @item.Price</h6>
+                 
+                </div>
+            </div>
+        </div>
+        if (i % 4 == 3 || i == Model.chassis.Count - 1)
+        {
+            @:</div>
+        }
+    }
+    <h1>Engines for  your vehicle</h1>
+     @for (int i = 0; i < Model.engines.Count; i++)
+    {
+        var item = Model.engines[i];
+        if (i % 4 == 0)
+        {
+            @:<div class="row mb-4">
+        }
+        <div class="col-md-3 mb-4">
+            <div class="card" style="width: 18rem;height:30rem">
+                <img class="card-img-top" src="@item.image" alt="Card image cap">
+                <div class="card-body">
+                    <h5 class="card-title">@item.Name</h5>
+                    <h6 class="card-text">Manufacturer:@item.Manufacturer</h6>
+                    <h6>Description: @item.Description</h6>
+                    <h6>Price: @item.Price</h6>
+                 
+                </div>
+            </div>
+        </div>
+        if (i % 4 == 3 || i == Model.engines.Count - 1)
+        {
+            @:</div>
+        }
+    }
+    <h1>Wheels for your vehicle</h1>
+     @for (int i = 0; i < Model.wheels.Count; i++)
+    {
+        var item = Model.wheels[i];
+        if (i % 4 == 0)
+        {
+            @:<div class="row mb-4">
+        }
+        <div class="col-md-3 mb-4">
+            <div class="card" style="width: 18rem;height:30rem">
+                <img class="card-img-top" src="@item.image" alt="Card image cap">
+                <div class="card-body">
+                    <h5 class="card-title">@item.Name</h5>
+                    <h6 class="card-text">Manufacturer:@item.Manufacturer</h6>
+                    <h6>Description: @item.Description</h6>
+                    <h6>Price: @item.Price</h6>
+                 
+                </div>
+            </div>
+        </div>
+        if (i % 4 == 3 || i == Model.wheels.Count - 1)
+        {
+            @:</div>
+        }
+    }
+    <h1>Doors for your vehicle</h1>
+     @for (int i = 0; i < Model.doors.Count; i++)
+    {
+        var item = Model.doors[i];
+        if (i % 4 == 0)
+        {
+            @:<div class="row mb-4">
+        }
+        <div class="col-md-3 mb-4">
+            <div class="card" style="width: 18rem;height:30rem">
+                <img class="card-img-top" src="@item.image" alt="Card image cap">
+                <div class="card-body">
+                    <h5 class="card-title">@item.Name</h5>
+                    <h6 class="card-text">Manufacturer:@item.Manufacturer</h6>
+                    <h6>Description: @item.Description</h6>
+                    <h6>Price: @item.Price</h6>
+                 
+                </div>
+            </div>
+        </div>
+        if (i % 4 == 3 || i == Model.doors.Count - 1)
+        {
+            @:</div>
+        }
+    }
+
+        </div>
+  }
