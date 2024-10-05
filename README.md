@@ -11,6 +11,7 @@ Welcome to the **Vehicle Manufacturing** project, a .NET Core application develo
 - **Automated Notifications**: Once a vehicle is manufactured, users receive an email confirmation of the completion.
 
 This project not only demonstrates modern .NET Core web development but also integrates cloud-based data solutions, ensuring scalability and efficient data handling.
+
 [Link to the web application](https://lastvehicle.azurewebsites.net/)
 ### Configuration
 1. **Database Connection**
