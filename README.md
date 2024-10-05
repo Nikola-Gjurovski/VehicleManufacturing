@@ -16,22 +16,22 @@ This project not only demonstrates modern .NET Core web development but also int
 1. **Database Connection**
    - To run the Vehicle Manufacturing project , you need to create an `appsettings.json`file in the `VehicleWeb` directory. of the project with your own configurations.
      ```json
-    {
-    "ConnectionStrings": {
-      "DefaultConnection": "Server=YOUR_SERVER;Database=YOUR_DATABASE;Trusted_Connection=True;TrustServerCertificate=True;"
-    },
-    "Stripe": {
-      "PublishableKey": "YOUR_PUBLISHABLE_KEY",
-      "SecretKey": "YOUR_SECRET_KEY"
-    },
-    "Logging": {
-      "LogLevel": {
-        "Default": "Information",
-        "Microsoft.AspNetCore": "Warning"
-      }
-    },
-    "AllowedHosts": "*"
-}
+       {
+       "ConnectionStrings": {
+         "DefaultConnection": "Server=YOUR_SERVER;Database=YOUR_DATABASE;Trusted_Connection=True;TrustServerCertificate=True;"
+       },
+       "Stripe": {
+         "PublishableKey": "YOUR_PUBLISHABLE_KEY",
+         "SecretKey": "YOUR_SECRET_KEY"
+       },
+       "Logging": {
+         "LogLevel": {
+           "Default": "Information",
+           "Microsoft.AspNetCore": "Warning"
+         }
+       },
+       "AllowedHosts": "*"
+     }
      ```
   - Replace `YOUR_SERVER` with your own SQL Server instance.
   - Replace `YOUR_DATABASE` with the name of your database.
